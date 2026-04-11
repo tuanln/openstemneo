@@ -27,11 +27,11 @@
 | 8 | Hơi nước trong không khí ra sao khi không khí lạnh đi? | What happens to water vapor in the air if we cool the air down, and why? | 149 | ✅ |
 | 9 | Vì sao không phải nơi nào cũng có mây? Mây làm bằng gì? | Why don't we see clouds everywhere in the air, and what is a cloud made of? | 165 | ✅ |
 | 10 | Vì sao mây hoặc bão chỉ hình thành vào một số thời điểm? | Why do clouds or storms form at some times but not others? | 175 | ✅ |
-| 11 | Vì sao giọt nước hay tinh thể đá không rơi liên tục từ mây? | Why don't water droplets or ice crystals fall from the clouds all the time? | 189 | ⏳ |
-| 12 | Điều gì gây ra lực nâng trong một đám mây so với đám khác? | What causes more lift in one cloud versus another? | 209 | ⏳ |
-| 13 | Vì sao một số bão sinh mưa đá rất to còn một số thì không? | Why do some storms produce (really big) hail and others don't? | 225 | ⏳ |
-| 14 | Nguyên nhân của các sự kiện thời tiết quy mô lớn | What causes a large-scale precipitation event like this to occur? | 237 | ⏳ |
-| 15 | Nhiệt độ và độ ẩm không khí trong các trận bão lớn ra sao? | What happens with temperature and humidity of air in large storms? | 247 | ⏳ |
+| 11 | Vì sao giọt nước hay tinh thể đá không rơi liên tục từ mây? | Why don't water droplets or ice crystals fall from the clouds all the time? | 189 | ✅ |
+| 12 | Điều gì gây ra lực nâng trong một đám mây so với đám khác? | What causes more lift in one cloud versus another? | 209 | ✅ |
+| 13 | Vì sao một số bão sinh mưa đá rất to còn một số thì không? | Why do some storms produce (really big) hail and others don't? | 225 | ✅ |
+| 14 | Nguyên nhân của các sự kiện thời tiết quy mô lớn | What causes a large-scale precipitation event like this to occur? | 237 | ✅ |
+| 15 | Nhiệt độ và độ ẩm không khí trong các trận bão lớn ra sao? | What happens with temperature and humidity of air in large storms? | 247 | ✅ |
 | 16 | Khối khí ấm và lạnh tương tác với nhau ra sao ở ranh giới? | How do warm air masses and cold air masses interact along the boundaries between them? | 261 | ⏳ |
 | 17 | Mối quan hệ giữa nơi không khí dâng lên và nơi mưa rơi | Is there a relationship between where the air is rising and where precipitation falls? | 279 | ⏳ |
 | 18 | Giải thích những gì diễn ra trong cơn bão lớn | How can we explain what is happening across this storm (and other large-scale storms)? | 289 | ⏳ |
@@ -40,7 +40,7 @@
 | 21 | Vì sao càng vào sâu nội địa thì lượng mưa càng giảm? | Why is there less precipitation further inland in the Pacific Northwest? | 335 | ⏳ |
 | 22 | Giải thích sự khác biệt khí hậu ở các vùng khác nhau | How can we explain differences in climate in different parts of the world? | 349 | ⏳ |
 
-**Tiến độ việt hóa: 10/22 (45%)**
+**Tiến độ việt hóa: 15/22 (68%)**
 
 ## Ý tưởng khoa học chính
 
