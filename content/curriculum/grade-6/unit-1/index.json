@@ -1,0 +1,38 @@
+{
+  "id": "6-1",
+  "gradeLevel": 6,
+  "title": "Ánh sáng & Vật chất",
+  "titleEn": "Light and Matter",
+  "anchoringPhenomenon": {
+    "question": "Tại sao chúng ta nhìn thấy màu sắc? Ánh sáng và vật chất tương tác với nhau như thế nào?",
+    "description": "Học sinh bắt đầu bằng cách quan sát một cầu vồng và đặt câu hỏi về ánh sáng.",
+    "mediaType": "video",
+    "mediaUrl": "/media/6-1-phenomenon.mp4"
+  },
+  "standards": ["MS-PS4-2", "MS-LS1-8"],
+  "totalLessons": 12,
+  "estimatedWeeks": 4,
+  "lessons": [
+    {
+      "id": "6-1-L1",
+      "order": 1,
+      "title": "Chúng ta thấy gì và tại sao?",
+      "type": "phenomenon",
+      "duration": "50 phút"
+    },
+    {
+      "id": "6-1-L2",
+      "order": 2,
+      "title": "Ánh sáng di chuyển như thế nào?",
+      "type": "investigation",
+      "duration": "50 phút"
+    },
+    {
+      "id": "6-1-L3",
+      "order": 3,
+      "title": "Vật chất tương tác với ánh sáng",
+      "type": "analysis",
+      "duration": "50 phút"
+    }
+  ]
+}
