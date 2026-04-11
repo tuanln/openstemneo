@@ -27,7 +27,7 @@ content/source/
 | Đơn vị | Tên Việt | Trang | Kích thước | Bài học | Việt hóa | Nguồn |
 |---|---|---|---|---|---|---|
 | **6.1** | Ánh sáng & Vật chất | 250 | 9.8 MB | 8 | ✅ 8/8 | [G6_ULT](https://openscied-uploads-production.s3.amazonaws.com/G6_ULT/lowres/6.1%20Teacher%20Edition.pdf) |
-| **6.2** | Nhiệt năng | 347 | 8.3 MB | 18 | ⏳ 3/18 | [G6_UTH](https://openscied-uploads-production.s3.amazonaws.com/G6_UTH/lowres/6.2%20Teacher%20Edition.pdf) |
+| **6.2** | Nhiệt năng | 347 | 8.3 MB | 18 | ⏳ 5/18 | [G6_UTH](https://openscied-uploads-production.s3.amazonaws.com/G6_UTH/lowres/6.2%20Teacher%20Edition.pdf) |
 | **6.3** | Thời tiết, Khí hậu & Chu trình Nước | 429 | 29.2 MB | 22 | ⬜ 0/22 | [G6_UWC](https://openscied-uploads-production.s3.amazonaws.com/G6_UWC/lowres/6.3%20Teacher%20Edition.pdf) |
 | **6.4** | Kiến tạo mảng & Vòng tuần hoàn đá | 354 | 12.8 MB | 14 | ⬜ 0/14 | [G6_UPT](https://openscied-uploads-production.s3.amazonaws.com/G6_UPT/lowres/6.4%20Teacher%20Edition.pdf) |
 | **6.5** | Thiên tai | 247 | 10.1 MB | 10 | ⬜ 0/10 | [G6_UNH](https://openscied-uploads-production.s3.amazonaws.com/G6_UNH/lowres/6.5%20Teacher%20Edition.pdf) |
@@ -67,9 +67,11 @@ content/source/
 ## Tiến độ việt hóa
 
 ```
-Đã xong:    Unit 6.1 (8/8 lessons)        ~3% tổng nội dung
-Đang làm:   Unit 6.2 (3/18 lessons)       ~1% tổng nội dung
-Còn lại:    16 unit + 15 lessons của 6.2  ~96%
+Đã xong:    Unit 6.1 (8/8 lessons)        ~3.0% tổng nội dung
+Đang làm:   Unit 6.2 (5/18 lessons)       ~1.9% tổng nội dung
+Còn lại:    16 unit + 13 lessons của 6.2  ~95.1%
+
+Tổng: 13/268 lessons (4.9%)
 ```
 
 ## Quy ước file

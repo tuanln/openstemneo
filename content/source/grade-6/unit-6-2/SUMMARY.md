@@ -20,8 +20,8 @@
 | 1 | Vì sao nhiệt độ chất lỏng trong một số ly thay đổi nhiều hơn ly khác? | Why does the temperature of the liquid in some cup systems change more than in others? | 29 | ✅ |
 | 2 | Đặc điểm nào của ly là quan trọng nhất để giữ nước lạnh? | What cup features seem most important for keeping a drink cold? | 51 | ✅ |
 | 3 | Các đặc điểm giữ lạnh có giống đặc điểm giữ nóng không? | How are the cup features that keep things cold the same or different for keeping things hot? | 65 | ✅ |
-| 4 | Cái nắp ảnh hưởng đến chất lỏng trong ly thế nào? | How does a lid affect what happens to the liquid in the cup? | 79 | ⏳ |
-| 5 | Nước bên ngoài ly lạnh đến từ đâu? | Where does the water on the outside of the cold cup system come from? | 103 | ⏳ |
+| 4 | Cái nắp ảnh hưởng đến chất lỏng trong ly thế nào? | How does a lid affect what happens to the liquid in the cup? | 79 | ✅ |
+| 5 | Nước bên ngoài ly lạnh đến từ đâu? | Where does the water on the outside of the cold cup system come from? | 103 | ✅ |
 | 6 | Giải thích tác dụng của cái nắp lên chất lỏng theo thời gian | How can we explain the effect of a lid on what happens to the liquid in the cup over time? | 115 | ⏳ |
 | 7 | Nếu vật chất không vào/ra khỏi hệ kín, nhiệt độ thay đổi thế nào? | If matter cannot enter or exit a closed system, how does a liquid in the system change temperature? | 129 | ⏳ |
 | 8 | Bề mặt ly ảnh hưởng đến cách ánh sáng làm nóng chất lỏng thế nào? | How does a cup's surface affect how light warms up a liquid inside the cup? | 141 | ⏳ |
@@ -36,7 +36,7 @@
 | 17 | Cải tiến thiết kế ly cách nhiệt | How can we improve our first design to slow energy transfer into the cup system even more? | 267 | ⏳ |
 | 18 | Tổng kết: Vật chứa giữ nhiệt độ thế nào? | How can containers keep stuff from warming up or cooling down? | 279 | ⏳ |
 
-**Tiến độ việt hóa: 3/18 (17%)**
+**Tiến độ việt hóa: 5/18 (28%)**
 
 ## Cấu trúc storyline
 
