@@ -22,17 +22,17 @@
 | 3 | Trên và dưới mặt đất khác nhau ở các nơi ra sao? | How does what we find on and below Earth's surface compare in different places? | 77 | ✅ |
 | 4 | Điều gì xảy ra với bề mặt và vật chất bên dưới khi có động đất? | What is happening to Earth's surface and the material below it during an earthquake? | 97 | ✅ |
 | 5 | Chuyển động mảng ảnh hưởng đến vùng quanh núi Everest thế nào? | How does plate movement affect the land around mountains such as Mt. Everest? | 123 | ✅ |
-| 6 | Chuyển động mảng giúp giải thích vì sao Everest thay đổi độ cao | How could plate movement help us explain how Mt. Everest and other locations are changing in elevation? | 139 | ⏳ |
-| 7 | Điều gì xảy ra ở những núi có hoạt động núi lửa? | What happens at mountains where we see volcanic activity? | 165 | ⏳ |
-| 8 | Điều gì diễn ra ở nơi hai mảng đang tách xa nhau? | What is occurring at locations where two plates are moving away from each other? | 183 | ⏳ |
-| 9 | Điều gì làm núi thay đổi? | What causes mountains to change? | 205 | ⏳ |
-| 10 | Châu Phi và Nam Mỹ trước đây ở đâu? | Where were Africa and South America in the past? | 219 | ⏳ |
+| 6 | Chuyển động mảng giúp giải thích vì sao Everest thay đổi độ cao | How could plate movement help us explain how Mt. Everest and other locations are changing in elevation? | 139 | ✅ |
+| 7 | Điều gì xảy ra ở những núi có hoạt động núi lửa? | What happens at mountains where we see volcanic activity? | 165 | ✅ |
+| 8 | Điều gì diễn ra ở nơi hai mảng đang tách xa nhau? | What is occurring at locations where two plates are moving away from each other? | 183 | ✅ |
+| 9 | Điều gì làm núi thay đổi? | What causes mountains to change? | 205 | ✅ |
+| 10 | Châu Phi và Nam Mỹ trước đây ở đâu? | Where were Africa and South America in the past? | 219 | ✅ |
 | 11 | Các mảng khác trước đây ở đâu? | Where were the other plates located in the distant past? | 239 | ⏳ |
 | 12 | Núi không nằm trên ranh giới mảng (như Appalachian) đến từ đâu? | Where did mountains that aren't at plate boundaries today come from? | 253 | ⏳ |
 | 13 | Điều gì làm núi thấp đi? | What causes mountains to shrink in elevation? | 277 | ⏳ |
 | 14 | Vì sao có hóa thạch biển trên đỉnh Everest? Trả lời các câu hỏi còn lại | How is there an exposed marine fossil on Mt. Everest? | 299 | ⏳ |
 
-**Tiến độ việt hóa: 5/14 (36%)**
+**Tiến độ việt hóa: 10/14 (71%)**
 
 ## Ý tưởng khoa học chính
 
