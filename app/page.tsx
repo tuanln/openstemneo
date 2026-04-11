@@ -18,7 +18,7 @@ const featuredPhenomena = [
     description:
       "Một mặt trông như gương phản chiếu, mặt kia như cửa sổ trong suốt. Học sinh xây dựng mô hình để tìm câu trả lời.",
     color: "from-yellow-100 to-amber-50 dark:from-yellow-950/40 dark:to-amber-950/20",
-    accent: "text-amber-700 dark:text-amber-300",
+    accent: "text-amber-900 dark:text-amber-200",
   },
   {
     icon: "🌧️",
@@ -27,7 +27,7 @@ const featuredPhenomena = [
     description:
       "Học sinh điều tra dự báo bão tuyết và khám phá hành trình của nước trong khí quyển.",
     color: "from-blue-100 to-sky-50 dark:from-blue-950/40 dark:to-sky-950/20",
-    accent: "text-sky-700 dark:text-sky-300",
+    accent: "text-sky-900 dark:text-sky-200",
   },
   {
     icon: "🧲",
@@ -36,7 +36,7 @@ const featuredPhenomena = [
     description:
       "Học sinh tự chế loa từ ly nhựa, dây đồng và nam châm — và kinh ngạc khi nghe được âm thanh phát ra.",
     color: "from-indigo-100 to-violet-50 dark:from-indigo-950/40 dark:to-violet-950/20",
-    accent: "text-indigo-700 dark:text-indigo-300",
+    accent: "text-indigo-900 dark:text-indigo-200",
   },
 ];
 
@@ -144,7 +144,7 @@ export default function LandingPage() {
                       {p.gradeLabel}
                     </Badge>
                   </div>
-                  <h3 className="mb-2 text-lg font-semibold leading-snug">
+                  <h3 className="mb-2 text-lg font-semibold leading-[1.4]">
                     {p.title}
                   </h3>
                   <p className="text-sm text-muted-foreground">

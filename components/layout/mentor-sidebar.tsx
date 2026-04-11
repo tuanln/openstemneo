@@ -28,7 +28,7 @@ export function MentorSidebar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Microscope className="h-5 w-5" />
           </div>
-          <div className="flex flex-col leading-tight">
+          <div className="flex flex-col gap-0.5 leading-[1.3]">
             <span className="text-sm font-bold">OpenStemNeo</span>
             <span className="text-[10px] uppercase tracking-wider text-muted-foreground">
               Mentor
