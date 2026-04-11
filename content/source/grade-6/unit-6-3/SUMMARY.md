@@ -22,11 +22,11 @@
 | 3 | Không khí ở trên cao khác với gần mặt đất ra sao? | How does the air higher up compare to the air near the ground? | 67 | ✅ |
 | 4 | Vì sao không khí gần mặt đất ấm hơn trên cao? | Why is the air near the ground warmer than the air higher up? | 83 | ✅ |
 | 5 | Điều gì xảy ra với không khí gần mặt đất khi nó được làm ấm? | What happens to the air near the ground when it is warmed up? | 99 | ✅ |
-| 6 | Giải thích chuyển động không khí trong đám mây mưa đá | How can we explain the movement of air in a hail cloud? | 123 | ⏳ |
-| 7 | Nước trong không khí từ đâu mà có? | Where did all that water in the air come from, and how did it get into the air? | 135 | ⏳ |
-| 8 | Hơi nước trong không khí ra sao khi không khí lạnh đi? | What happens to water vapor in the air if we cool the air down, and why? | 149 | ⏳ |
-| 9 | Vì sao không phải nơi nào cũng có mây? Mây làm bằng gì? | Why don't we see clouds everywhere in the air, and what is a cloud made of? | 165 | ⏳ |
-| 10 | Vì sao mây hoặc bão chỉ hình thành vào một số thời điểm? | Why do clouds or storms form at some times but not others? | 175 | ⏳ |
+| 6 | Giải thích chuyển động không khí trong đám mây mưa đá | How can we explain the movement of air in a hail cloud? | 123 | ✅ |
+| 7 | Nước trong không khí từ đâu mà có? | Where did all that water in the air come from, and how did it get into the air? | 135 | ✅ |
+| 8 | Hơi nước trong không khí ra sao khi không khí lạnh đi? | What happens to water vapor in the air if we cool the air down, and why? | 149 | ✅ |
+| 9 | Vì sao không phải nơi nào cũng có mây? Mây làm bằng gì? | Why don't we see clouds everywhere in the air, and what is a cloud made of? | 165 | ✅ |
+| 10 | Vì sao mây hoặc bão chỉ hình thành vào một số thời điểm? | Why do clouds or storms form at some times but not others? | 175 | ✅ |
 | 11 | Vì sao giọt nước hay tinh thể đá không rơi liên tục từ mây? | Why don't water droplets or ice crystals fall from the clouds all the time? | 189 | ⏳ |
 | 12 | Điều gì gây ra lực nâng trong một đám mây so với đám khác? | What causes more lift in one cloud versus another? | 209 | ⏳ |
 | 13 | Vì sao một số bão sinh mưa đá rất to còn một số thì không? | Why do some storms produce (really big) hail and others don't? | 225 | ⏳ |
@@ -40,7 +40,7 @@
 | 21 | Vì sao càng vào sâu nội địa thì lượng mưa càng giảm? | Why is there less precipitation further inland in the Pacific Northwest? | 335 | ⏳ |
 | 22 | Giải thích sự khác biệt khí hậu ở các vùng khác nhau | How can we explain differences in climate in different parts of the world? | 349 | ⏳ |
 
-**Tiến độ việt hóa: 5/22 (23%)**
+**Tiến độ việt hóa: 10/22 (45%)**
 
 ## Ý tưởng khoa học chính
 
