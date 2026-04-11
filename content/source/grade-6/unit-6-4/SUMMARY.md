@@ -27,12 +27,12 @@
 | 8 | Điều gì diễn ra ở nơi hai mảng đang tách xa nhau? | What is occurring at locations where two plates are moving away from each other? | 183 | ✅ |
 | 9 | Điều gì làm núi thay đổi? | What causes mountains to change? | 205 | ✅ |
 | 10 | Châu Phi và Nam Mỹ trước đây ở đâu? | Where were Africa and South America in the past? | 219 | ✅ |
-| 11 | Các mảng khác trước đây ở đâu? | Where were the other plates located in the distant past? | 239 | ⏳ |
-| 12 | Núi không nằm trên ranh giới mảng (như Appalachian) đến từ đâu? | Where did mountains that aren't at plate boundaries today come from? | 253 | ⏳ |
-| 13 | Điều gì làm núi thấp đi? | What causes mountains to shrink in elevation? | 277 | ⏳ |
-| 14 | Vì sao có hóa thạch biển trên đỉnh Everest? Trả lời các câu hỏi còn lại | How is there an exposed marine fossil on Mt. Everest? | 299 | ⏳ |
+| 11 | Các mảng khác trước đây ở đâu? | Where were the other plates located in the distant past? | 239 | ✅ |
+| 12 | Núi không nằm trên ranh giới mảng (như Appalachian) đến từ đâu? | Where did mountains that aren't at plate boundaries today come from? | 253 | ✅ |
+| 13 | Điều gì làm núi thấp đi? | What causes mountains to shrink in elevation? | 277 | ✅ |
+| 14 | Vì sao có hóa thạch biển trên đỉnh Everest? Trả lời các câu hỏi còn lại | How is there an exposed marine fossil on Mt. Everest? | 299 | ✅ |
 
-**Tiến độ việt hóa: 10/14 (71%)**
+**Tiến độ việt hóa: 14/14 (100%) ✅**
 
 ## Ý tưởng khoa học chính
 

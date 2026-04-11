@@ -29,7 +29,7 @@ content/source/
 | **6.1** | Ánh sáng & Vật chất | 250 | 9.8 MB | 8 | ✅ 8/8 | [G6_ULT](https://openscied-uploads-production.s3.amazonaws.com/G6_ULT/lowres/6.1%20Teacher%20Edition.pdf) |
 | **6.2** | Nhiệt năng | 347 | 8.3 MB | 18 | ✅ 18/18 | [G6_UTH](https://openscied-uploads-production.s3.amazonaws.com/G6_UTH/lowres/6.2%20Teacher%20Edition.pdf) |
 | **6.3** | Thời tiết, Khí hậu & Chu trình Nước | 429 | 29.2 MB | 22 | ✅ 22/22 | [G6_UWC](https://openscied-uploads-production.s3.amazonaws.com/G6_UWC/lowres/6.3%20Teacher%20Edition.pdf) |
-| **6.4** | Kiến tạo mảng & Vòng tuần hoàn đá | 354 | 12.8 MB | 14 | ⏳ 10/14 | [G6_UPT](https://openscied-uploads-production.s3.amazonaws.com/G6_UPT/lowres/6.4%20Teacher%20Edition.pdf) |
+| **6.4** | Kiến tạo mảng & Vòng tuần hoàn đá | 354 | 12.8 MB | 14 | ✅ 14/14 | [G6_UPT](https://openscied-uploads-production.s3.amazonaws.com/G6_UPT/lowres/6.4%20Teacher%20Edition.pdf) |
 | **6.5** | Thiên tai | 247 | 10.1 MB | 10 | ⬜ 0/10 | [G6_UNH](https://openscied-uploads-production.s3.amazonaws.com/G6_UNH/lowres/6.5%20Teacher%20Edition.pdf) |
 | **6.6** | Tế bào & Hệ cơ thể | 368 | 11.1 MB | 14 | ⬜ 0/14 | [G6_UCL](https://openscied-uploads-production.s3.amazonaws.com/G6_UCL/lowres/6.6%20Teacher%20Edition.pdf) |
 
@@ -70,12 +70,12 @@ content/source/
 Đã xong:    Unit 6.1 (8/8 lessons)        ~3.0% tổng nội dung
             Unit 6.2 (18/18 lessons)      ~6.7% tổng nội dung
             Unit 6.3 (22/22 lessons)      ~8.2% tổng nội dung
-Đang làm:   Unit 6.4 (10/14 lessons)      ~3.7% tổng nội dung
-Còn lại:    14 unit + 4 lessons của 6.4
+            Unit 6.4 (14/14 lessons)      ~5.2% tổng nội dung
+Còn lại:    14 unit (2 Lớp 6, 6 Lớp 7, 6 Lớp 8)
 
-Tổng: 58/268 lessons (21.6%) — qua mốc 20% 🎉
-Đơn vị hoàn thành: 3/18
-Lớp 6: 58/86 (67%)
+Tổng: 62/268 lessons (23.1%)
+Đơn vị hoàn thành: 4/18 (22%) 🎉
+Lớp 6: 62/86 (72%) — 3/4 chặng đường Lớp 6
 ```
 
 ## Quy ước file
