@@ -32,11 +32,11 @@
 | 13 | Chuyển động hạt một bên thành rắn ảnh hưởng đến bên kia thế nào? | How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall? | 211 | ✅ |
 | 14 | Lạnh thoát ra hay nhiệt đi vào hệ thống? | Does our evidence support that cold is leaving the system or that heat is entering the system? | 225 | ✅ |
 | 15 | Đặc điểm thiết kế nào làm chậm sự truyền năng lượng? | How do certain design features slow down the transfer of energy into a cup? | 239 | ✅ |
-| 16 | Thiết kế ly để làm chậm truyền năng lượng | How can we design a cup system to slow energy transfer into the liquid inside it? | 255 | ⏳ |
-| 17 | Cải tiến thiết kế ly cách nhiệt | How can we improve our first design to slow energy transfer into the cup system even more? | 267 | ⏳ |
-| 18 | Tổng kết: Vật chứa giữ nhiệt độ thế nào? | How can containers keep stuff from warming up or cooling down? | 279 | ⏳ |
+| 16 | Thiết kế ly để làm chậm truyền năng lượng | How can we design a cup system to slow energy transfer into the liquid inside it? | 255 | ✅ |
+| 17 | Cải tiến thiết kế ly cách nhiệt | How can we improve our first design to slow energy transfer into the cup system even more? | 267 | ✅ |
+| 18 | Tổng kết: Vật chứa giữ nhiệt độ thế nào? | How can containers keep stuff from warming up or cooling down? | 279 | ✅ |
 
-**Tiến độ việt hóa: 15/18 (83%)**
+**Tiến độ việt hóa: 18/18 (100%) ✅**
 
 ## Cấu trúc storyline
 
