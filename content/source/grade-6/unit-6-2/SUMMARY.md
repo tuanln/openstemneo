@@ -27,16 +27,16 @@
 | 8 | Bề mặt ly ảnh hưởng đến cách ánh sáng làm nóng chất lỏng thế nào? | How does a cup's surface affect how light warms up a liquid inside the cup? | 141 | ✅ |
 | 9 | Nhiệt độ ngoài ly có ảnh hưởng đến nhiệt độ trong ly không? | How does the temperature of a liquid on one side of a cup wall affect the temperature of a liquid on the other side of the wall? | 159 | ✅ |
 | 10 | Sự khác biệt giữa chất lỏng nóng và lạnh là gì? | What is the difference between a hot and a cold liquid? | 171 | ✅ |
-| 11 | Vì sao các hạt chuyển động nhiều hơn trong chất lỏng nóng? | Why do particles move more in hot liquids? | 185 | ⏳ |
-| 12 | So sánh chuyển động hạt trong mẫu vật ở cùng nhiệt độ | How does the motion of particles compare in a sample of matter at a given temperature? | 197 | ⏳ |
-| 13 | Chuyển động hạt một bên thành rắn ảnh hưởng đến bên kia thế nào? | How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall? | 211 | ⏳ |
-| 14 | Lạnh thoát ra hay nhiệt đi vào hệ thống? | Does our evidence support that cold is leaving the system or that heat is entering the system? | 225 | ⏳ |
-| 15 | Đặc điểm thiết kế nào làm chậm sự truyền năng lượng? | How do certain design features slow down the transfer of energy into a cup? | 239 | ⏳ |
+| 11 | Vì sao các hạt chuyển động nhiều hơn trong chất lỏng nóng? | Why do particles move more in hot liquids? | 185 | ✅ |
+| 12 | So sánh chuyển động hạt trong mẫu vật ở cùng nhiệt độ | How does the motion of particles compare in a sample of matter at a given temperature? | 197 | ✅ |
+| 13 | Chuyển động hạt một bên thành rắn ảnh hưởng đến bên kia thế nào? | How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall? | 211 | ✅ |
+| 14 | Lạnh thoát ra hay nhiệt đi vào hệ thống? | Does our evidence support that cold is leaving the system or that heat is entering the system? | 225 | ✅ |
+| 15 | Đặc điểm thiết kế nào làm chậm sự truyền năng lượng? | How do certain design features slow down the transfer of energy into a cup? | 239 | ✅ |
 | 16 | Thiết kế ly để làm chậm truyền năng lượng | How can we design a cup system to slow energy transfer into the liquid inside it? | 255 | ⏳ |
 | 17 | Cải tiến thiết kế ly cách nhiệt | How can we improve our first design to slow energy transfer into the cup system even more? | 267 | ⏳ |
 | 18 | Tổng kết: Vật chứa giữ nhiệt độ thế nào? | How can containers keep stuff from warming up or cooling down? | 279 | ⏳ |
 
-**Tiến độ việt hóa: 10/18 (56%)**
+**Tiến độ việt hóa: 15/18 (83%)**
 
 ## Cấu trúc storyline
 
