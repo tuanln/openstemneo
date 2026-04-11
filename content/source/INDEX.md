@@ -4,6 +4,8 @@
 > Tất cả PDF được tải từ S3 công khai của OpenSciEd, license **CC BY 4.0**.
 > File PDF không được commit vào git (xem `.gitignore`) — chạy `bash content/source/download_all.sh` để tải về local.
 
+> 📋 **Quy trình việt hóa**: xem [`TRANSLATION_WORKFLOW.md`](./TRANSLATION_WORKFLOW.md) — cứ sau **5 bài** đã dịch, BẮT BUỘC checkpoint: cập nhật INDEX + SUMMARY + commit.
+
 ## Cấu trúc thư mục
 
 ```
