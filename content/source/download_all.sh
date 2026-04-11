@@ -19,7 +19,7 @@ mkdir -p "$OUT/grade-6/unit-6-1" "$OUT/grade-6/unit-6-2" \
 echo "📗 Grade 6..."
 
 curl -L -o "$OUT/grade-6/unit-6-1/teacher-edition.pdf" \
-  "$BASE/G6_UTH/lowres/6.1%20Teacher%20Edition.pdf" && echo "  ✅ 6.1"
+  "$BASE/G6_ULT/lowres/6.1%20Teacher%20Edition.pdf" && echo "  ✅ 6.1"
 
 curl -L -o "$OUT/grade-6/unit-6-2/teacher-edition.pdf" \
   "$BASE/G6_UTH/lowres/6.2%20Teacher%20Edition.pdf" && echo "  ✅ 6.2"
