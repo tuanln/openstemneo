@@ -114,3 +114,33 @@ export async function getAllLessonParams(): Promise<
   }
   return params;
 }
+
+export interface UnitAvailability {
+  totalLessonFiles: number;
+  availableLessonFiles: number;
+  hasAnyAvailable: boolean;
+}
+
+export async function getUnitAvailability(
+  unitId: string,
+): Promise<UnitAvailability> {
+  const lessons = await getLessonsForUnit(unitId);
+  const available = lessons.filter((l) => l.available).length;
+  return {
+    totalLessonFiles: lessons.length,
+    availableLessonFiles: available,
+    hasAnyAvailable: available > 0,
+  };
+}
+
+export async function getUnitsWithAvailability(): Promise<
+  (CurriculumUnit & { availability: UnitAvailability })[]
+> {
+  const units = await getAllUnits();
+  return Promise.all(
+    units.map(async (unit) => ({
+      ...unit,
+      availability: await getUnitAvailability(unit.id),
+    })),
+  );
+}

@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import { getAllUnits, getUnitsByGrade } from "@/lib/curriculum/loader";
+import { getUnitsWithAvailability } from "@/lib/curriculum/loader";
 import type { GradeLevel } from "@/lib/curriculum/types";
 import { UnitCard } from "@/components/curriculum/unit-card";
 import { GradeFilter } from "@/components/curriculum/grade-filter";
@@ -22,7 +22,10 @@ export default async function UnitsPage({ searchParams }: PageProps) {
       ? (Number(gradeParam) as GradeLevel)
       : undefined;
 
-  const units = grade ? await getUnitsByGrade(grade) : await getAllUnits();
+  const allUnits = await getUnitsWithAvailability();
+  const units = grade
+    ? allUnits.filter((u) => u.gradeLevel === grade)
+    : allUnits;
   const grouped: Record<number, typeof units> = { 6: [], 7: [], 8: [] };
   for (const u of units) grouped[u.gradeLevel]?.push(u);
 
@@ -45,7 +48,11 @@ export default async function UnitsPage({ searchParams }: PageProps) {
         <section>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {units.map((unit) => (
-              <UnitCard key={unit.id} unit={unit} />
+              <UnitCard
+                key={unit.id}
+                unit={unit}
+                availableLessons={unit.availability.availableLessonFiles}
+              />
             ))}
           </div>
         </section>
@@ -53,17 +60,24 @@ export default async function UnitsPage({ searchParams }: PageProps) {
         ([6, 7, 8] as const).map((g) => {
           const unitsInGrade = grouped[g] ?? [];
           if (unitsInGrade.length === 0) return null;
+          const readyCount = unitsInGrade.filter(
+            (u) => u.availability.hasAnyAvailable,
+          ).length;
           return (
             <section key={g}>
-              <h2 className="mb-4 text-lg font-semibold">
-                Lớp {g}{" "}
-                <span className="ml-2 text-sm font-normal text-muted-foreground">
-                  {unitsInGrade.length} đơn vị
+              <h2 className="mb-4 flex flex-wrap items-baseline gap-3 text-lg font-semibold">
+                <span>Lớp {g}</span>
+                <span className="text-sm font-normal text-muted-foreground">
+                  {readyCount}/{unitsInGrade.length} đơn vị có nội dung
                 </span>
               </h2>
               <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {unitsInGrade.map((unit) => (
-                  <UnitCard key={unit.id} unit={unit} />
+                  <UnitCard
+                    key={unit.id}
+                    unit={unit}
+                    availableLessons={unit.availability.availableLessonFiles}
+                  />
                 ))}
               </div>
             </section>

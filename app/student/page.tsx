@@ -1,12 +1,17 @@
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { getLessonsForUnit, getUnitsByGrade, getUnitById } from "@/lib/curriculum/loader";
+import {
+  getLessonsForUnit,
+  getUnitById,
+  getUnitsWithAvailability,
+} from "@/lib/curriculum/loader";
 import { UnitCard } from "@/components/curriculum/unit-card";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 export default async function StudentHome() {
-  const units = await getUnitsByGrade(6);
+  const allUnits = await getUnitsWithAvailability();
+  const grade6Units = allUnits.filter((u) => u.gradeLevel === 6);
   const firstUnit = await getUnitById("6-1");
   const firstUnitLessons = firstUnit ? await getLessonsForUnit("6-1") : [];
   const continueLesson = firstUnitLessons.find((l) => l.available);
@@ -71,8 +76,12 @@ export default async function StudentHome() {
           </Button>
         </div>
         <div className="grid gap-4 sm:grid-cols-2">
-          {units.slice(0, 4).map((unit) => (
-            <UnitCard key={unit.id} unit={unit} />
+          {grade6Units.slice(0, 4).map((unit) => (
+            <UnitCard
+              key={unit.id}
+              unit={unit}
+              availableLessons={unit.availability.availableLessonFiles}
+            />
           ))}
         </div>
       </section>
