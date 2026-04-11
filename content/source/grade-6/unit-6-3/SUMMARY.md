@@ -32,15 +32,15 @@
 | 13 | Vì sao một số bão sinh mưa đá rất to còn một số thì không? | Why do some storms produce (really big) hail and others don't? | 225 | ✅ |
 | 14 | Nguyên nhân của các sự kiện thời tiết quy mô lớn | What causes a large-scale precipitation event like this to occur? | 237 | ✅ |
 | 15 | Nhiệt độ và độ ẩm không khí trong các trận bão lớn ra sao? | What happens with temperature and humidity of air in large storms? | 247 | ✅ |
-| 16 | Khối khí ấm và lạnh tương tác với nhau ra sao ở ranh giới? | How do warm air masses and cold air masses interact along the boundaries between them? | 261 | ⏳ |
-| 17 | Mối quan hệ giữa nơi không khí dâng lên và nơi mưa rơi | Is there a relationship between where the air is rising and where precipitation falls? | 279 | ⏳ |
-| 18 | Giải thích những gì diễn ra trong cơn bão lớn | How can we explain what is happening across this storm (and other large-scale storms)? | 289 | ⏳ |
-| 19 | Quy luật di chuyển của khối khí giúp dự đoán bão | Are there patterns to how air masses move that can help predict where large storms will form? | 305 | ⏳ |
-| 20 | Đại dương ảnh hưởng đến lượng mưa thế nào? | How do oceans affect whether a place gets a lot or a little precipitation? | 319 | ⏳ |
+| 16 | Khối khí ấm và lạnh tương tác với nhau ra sao ở ranh giới? | How do warm air masses and cold air masses interact along the boundaries between them? | 261 | ✅ |
+| 17 | Mối quan hệ giữa nơi không khí dâng lên và nơi mưa rơi | Is there a relationship between where the air is rising and where precipitation falls? | 279 | ✅ |
+| 18 | Giải thích những gì diễn ra trong cơn bão lớn | How can we explain what is happening across this storm (and other large-scale storms)? | 289 | ✅ |
+| 19 | Quy luật di chuyển của khối khí giúp dự đoán bão | Are there patterns to how air masses move that can help predict where large storms will form? | 305 | ✅ |
+| 20 | Đại dương ảnh hưởng đến lượng mưa thế nào? | How do oceans affect whether a place gets a lot or a little precipitation? | 319 | ✅ |
 | 21 | Vì sao càng vào sâu nội địa thì lượng mưa càng giảm? | Why is there less precipitation further inland in the Pacific Northwest? | 335 | ⏳ |
 | 22 | Giải thích sự khác biệt khí hậu ở các vùng khác nhau | How can we explain differences in climate in different parts of the world? | 349 | ⏳ |
 
-**Tiến độ việt hóa: 15/22 (68%)**
+**Tiến độ việt hóa: 20/22 (91%)**
 
 ## Ý tưởng khoa học chính
 
