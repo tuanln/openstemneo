@@ -37,10 +37,10 @@
 | 18 | Giải thích những gì diễn ra trong cơn bão lớn | How can we explain what is happening across this storm (and other large-scale storms)? | 289 | ✅ |
 | 19 | Quy luật di chuyển của khối khí giúp dự đoán bão | Are there patterns to how air masses move that can help predict where large storms will form? | 305 | ✅ |
 | 20 | Đại dương ảnh hưởng đến lượng mưa thế nào? | How do oceans affect whether a place gets a lot or a little precipitation? | 319 | ✅ |
-| 21 | Vì sao càng vào sâu nội địa thì lượng mưa càng giảm? | Why is there less precipitation further inland in the Pacific Northwest? | 335 | ⏳ |
-| 22 | Giải thích sự khác biệt khí hậu ở các vùng khác nhau | How can we explain differences in climate in different parts of the world? | 349 | ⏳ |
+| 21 | Vì sao càng vào sâu nội địa thì lượng mưa càng giảm? | Why is there less precipitation further inland in the Pacific Northwest? | 335 | ✅ |
+| 22 | Giải thích sự khác biệt khí hậu ở các vùng khác nhau | How can we explain differences in climate in different parts of the world? | 349 | ✅ |
 
-**Tiến độ việt hóa: 20/22 (91%)**
+**Tiến độ việt hóa: 22/22 (100%) ✅**
 
 ## Ý tưởng khoa học chính
 
