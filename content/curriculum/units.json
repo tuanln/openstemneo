@@ -23,8 +23,8 @@
     "drivingQuestion": "Làm sao những vật chứa giữ được đồ vật không nóng lên hoặc lạnh đi?",
     "phenomenon": "Trong một cửa hàng tiện lợi, em thấy hai chiếc ly nhựa trông giống hệt nhau từ bên ngoài. Em mua cả hai và đổ đá lạnh vào cùng lúc. Đến trưa, đá trong chiếc ly thường đã tan gần hết, còn chiếc ly kia vẫn còn nhiều đá. Điều gì bên trong chiếc ly thứ hai đã làm nó giữ lạnh lâu hơn? Em tháo rời từng phần — nắp, thành ly, đáy — rồi làm các thí nghiệm đo nhiệt độ. Dần dần em phát hiện: nhiệt năng không chỉ truyền qua nước bay hơi, mà còn đến từ ánh sáng hấp thụ và không khí ấm xung quanh. Cuối đơn vị, em tự thiết kế một vật chứa cách nhiệt của riêng mình.",
     "standards": ["MS-PS1-4", "MS-PS3-3", "MS-PS3-4", "MS-PS3-5", "MS-PS4-2", "MS-ETS1-4"],
-    "totalLessons": 16,
-    "estimatedWeeks": 5,
+    "totalLessons": 18,
+    "estimatedWeeks": 6,
     "icon": "🌡️",
     "color": "orange",
     "sourceUrl": "https://www.openscied.org/instructional-materials/6-2-thermal-energy/"
