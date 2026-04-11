@@ -15,13 +15,13 @@
 
 ## Danh sách bài học
 
-| # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang |
-|---|---|---|---|
-| 1 | Điều gì xảy ra khi viên muối tắm gặp nước? | What happens when a bath bomb is added to water? | 23 |
-| 2 | Khí từ đâu mà có? | Where is the gas coming from? | 49 |
-| 3 | Trong viên muối tắm có chất gì sinh ra khí? | What's in a bath bomb that is producing the gas? | 75 |
-| 4 | Sự kết hợp nào tạo ra khí? | Which combinations of the substances in a bath bomb produce a gas? | 95 |
-| 5 | Khí gì đang được sinh ra từ viên muối tắm? | What gas(es) could be coming from the bath bomb? | 113 |
+| # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang | Trạng thái |
+|---|---|---|---|---|
+| 1 | Điều gì xảy ra khi viên muối tắm gặp nước? | What happens when a bath bomb is added to water? | 23 | ✅ |
+| 2 | Khí từ đâu mà có? | Where is the gas coming from? | 49 | ✅ |
+| 3 | Trong viên muối tắm có chất gì sinh ra khí? | What's in a bath bomb that is producing the gas? | 75 | ✅ |
+| 4 | Sự kết hợp nào tạo ra khí? | Which combinations of the substances in a bath bomb produce a gas? | 95 | ✅ |
+| 5 | Khí gì đang được sinh ra từ viên muối tắm? | What gas(es) could be coming from the bath bomb? | 113 | ✅ |
 | 6 | Giải thích hiện tượng tương tự với khí bọt | How can we explain another phenomenon where gas bubbles appear? | 137 |
 | 7 | Sửa mô hình để biểu diễn vật chất vào và ra khỏi hệ | How can we revise our model to represent the differences in matter? | 145 |
 | 8 | Hạt chất mới được tạo ra từ hạt chất cũ thế nào? | How can particles of a new substance be formed out of the particles of an old substance? | 161 |
@@ -32,7 +32,7 @@
 | 13 | Vì sao các chất khác nhau có mùi khác nhau? | Why do different substances have different odors and how do we detect them? | 239 |
 | 14 | Điều gì đang xảy ra với đền Taj Mahal? | What is happening to the Taj Mahal? | 247 |
 
-**Tiến độ việt hóa: 0/14**
+**Tiến độ việt hóa: 5/14 (36%)**
 
 ## Ý tưởng khoa học chính
 

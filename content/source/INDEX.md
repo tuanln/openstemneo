@@ -43,7 +43,7 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
 
 | Đơn vị | Tên Việt | Trang | Kích thước | Bài học | Việt hóa | Nguồn |
 |---|---|---|---|---|---|---|
-| **7.1** | Phản ứng hóa học & Vật chất | 334 | 54.1 MB | 14 | ⬜ 0/14 | [G7_UCA](https://openscied-uploads-production.s3.amazonaws.com/G7_UCA/hires/7.1%20Chemical%20Reactions%20%26%20Matter%20Teacher%20Edition.pdf) |
+| **7.1** | Phản ứng hóa học & Vật chất | 334 | 54.1 MB | 14 | ⏳ 5/14 | [G7_UCA](https://openscied-uploads-production.s3.amazonaws.com/G7_UCA/hires/7.1%20Chemical%20Reactions%20%26%20Matter%20Teacher%20Edition.pdf) |
 | **7.2** | Phản ứng hóa học & Năng lượng | 337 | 91.7 MB | 10 | ⬜ 0/10 | [G7_UCB](https://openscied-uploads-production.s3.amazonaws.com/G7_UCB/hires/7.2%20Chemical%20Reactions%20%26%20Energy%20Teacher%20Edition.pdf) |
 | **7.3** | Phản ứng chuyển hóa | 351 | 36.1 MB | 15 | ⬜ 0/15 | [G7_UMR](https://openscied-uploads-production.s3.amazonaws.com/G7_UMR/hires/7.3%20Metabolic%20Reactions%20Teacher%20Edition.pdf) |
 | **7.4** | Chu trình vật chất & Quang hợp | 327 | 54.0 MB | 15 | ⬜ 0/15 | [G7_UMC](https://openscied-uploads-production.s3.amazonaws.com/G7_UMC/hires/7.4%20Matter%20Cycling%20and%20Photosynthesis%20Teacher%20Edition.pdf) |
@@ -79,11 +79,17 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
             Unit 6.4 (14/14 lessons)      ~5.2% tổng nội dung
             Unit 6.5 (10/10 lessons)      ~3.7% tổng nội dung
             Unit 6.6 (14/14 lessons)      ~5.2% tổng nội dung  ← FINAL GRADE 6 ✅
-Còn lại:    12 unit (6 Lớp 7, 6 Lớp 8)
+Đang làm:   Unit 7.1 (5/14 lessons)       CP1/3 — CẤP 2 LỚP 7 SAMPLE
 
-Tổng: 86/268 lessons (32.1%)
+Chiến lược mới: mỗi cấp/lớp làm 1 unit đầu làm sample
+- Lớp 6: ✅ HOÀN TẤT (full grade)
+- Lớp 7: Unit 7.1 only (sample)
+- Lớp 8: Unit 8.1 only (sample, sắp tới)
+- Lớp 3 (cấp 1): Unit 3.1 only (sample, sắp tới)
+
+Tổng: 91/268 lessons (34.0%)
 Đơn vị hoàn thành: 6/18 (33%)
-🎓 LỚP 6: 86/86 (100%) — HOÀN TẤT
+🎓 LỚP 6: 86/86 (100%)
 ```
 
 ## Quy ước file
