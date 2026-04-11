@@ -15,20 +15,20 @@
 
 ## Danh sách bài học
 
-| # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang |
-|---|---|---|---|
-| 1 | Điều gì xảy ra với cộng đồng khi có sóng thần? | What happens to a community when a tsunami occurs? | 21 |
-| 2 | Sóng thần xảy ra ở đâu và do gì gây ra? | Where do tsunamis happen and what causes them? | 43 |
-| 3 | Điều gì làm sóng thần hình thành và di chuyển? | What causes a tsunami to form and move? | 61 |
-| 4 | Dự báo nơi và thời điểm sóng thần sẽ đến | How can we forecast where and when tsunamis will happen and which communities are at risk? | 83 |
-| 5 | Làm sao giảm thiệt hại do sóng thần? | How can we reduce damage from a tsunami wave? | 93 |
-| 6 | Cách phát hiện sóng thần và gửi cảnh báo | How are tsunamis detected and warning signals sent? | 119 |
-| 7 | Cách thông tin với người dân trước và trong cơn bão | What are ways we can communicate with people before and during a tsunami? | 133 |
-| 8 | Hệ thống cảnh báo nào đáng tin cậy nhất? | Which emergency communication systems are the most reliable in a hazard? | 151 |
-| 9 | Mô hình hóa các hệ thống bảo vệ cộng đồng | How can we model the systems put into place to protect communities? | 161 |
-| 10 | Chuẩn bị cộng đồng ứng phó thiên tai | How can we effectively prepare our communities for a natural hazard? | 177 |
+| # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang | Trạng thái |
+|---|---|---|---|---|
+| 1 | Điều gì xảy ra với cộng đồng khi có sóng thần? | What happens to a community when a tsunami occurs? | 21 | ✅ |
+| 2 | Sóng thần xảy ra ở đâu và do gì gây ra? | Where do tsunamis happen and what causes them? | 43 | ✅ |
+| 3 | Điều gì làm sóng thần hình thành và di chuyển? | What causes a tsunami to form and move? | 61 | ✅ |
+| 4 | Dự báo nơi và thời điểm sóng thần sẽ đến | How can we forecast where and when tsunamis will happen and which communities are at risk? | 83 | ✅ |
+| 5 | Làm sao giảm thiệt hại do sóng thần? | How can we reduce damage from a tsunami wave? | 93 | ✅ |
+| 6 | Cách phát hiện sóng thần và gửi cảnh báo | How are tsunamis detected and warning signals sent? | 119 | ⏳ |
+| 7 | Cách thông tin với người dân trước và trong cơn bão | What are ways we can communicate with people before and during a tsunami? | 133 | ⏳ |
+| 8 | Hệ thống cảnh báo nào đáng tin cậy nhất? | Which emergency communication systems are the most reliable in a hazard? | 151 | ⏳ |
+| 9 | Mô hình hóa các hệ thống bảo vệ cộng đồng | How can we model the systems put into place to protect communities? | 161 | ⏳ |
+| 10 | Chuẩn bị cộng đồng ứng phó thiên tai | How can we effectively prepare our communities for a natural hazard? | 177 | ⏳ |
 
-**Tiến độ việt hóa: 0/10**
+**Tiến độ việt hóa: 5/10 (50%)**
 
 ## Ý tưởng khoa học chính
 
