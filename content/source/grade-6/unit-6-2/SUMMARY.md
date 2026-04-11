@@ -22,11 +22,11 @@
 | 3 | Các đặc điểm giữ lạnh có giống đặc điểm giữ nóng không? | How are the cup features that keep things cold the same or different for keeping things hot? | 65 | ✅ |
 | 4 | Cái nắp ảnh hưởng đến chất lỏng trong ly thế nào? | How does a lid affect what happens to the liquid in the cup? | 79 | ✅ |
 | 5 | Nước bên ngoài ly lạnh đến từ đâu? | Where does the water on the outside of the cold cup system come from? | 103 | ✅ |
-| 6 | Giải thích tác dụng của cái nắp lên chất lỏng theo thời gian | How can we explain the effect of a lid on what happens to the liquid in the cup over time? | 115 | ⏳ |
-| 7 | Nếu vật chất không vào/ra khỏi hệ kín, nhiệt độ thay đổi thế nào? | If matter cannot enter or exit a closed system, how does a liquid in the system change temperature? | 129 | ⏳ |
-| 8 | Bề mặt ly ảnh hưởng đến cách ánh sáng làm nóng chất lỏng thế nào? | How does a cup's surface affect how light warms up a liquid inside the cup? | 141 | ⏳ |
-| 9 | Nhiệt độ ngoài ly có ảnh hưởng đến nhiệt độ trong ly không? | How does the temperature of a liquid on one side of a cup wall affect the temperature of a liquid on the other side of the wall? | 159 | ⏳ |
-| 10 | Sự khác biệt giữa chất lỏng nóng và lạnh là gì? | What is the difference between a hot and a cold liquid? | 171 | ⏳ |
+| 6 | Giải thích tác dụng của cái nắp lên chất lỏng theo thời gian | How can we explain the effect of a lid on what happens to the liquid in the cup over time? | 115 | ✅ |
+| 7 | Nếu vật chất không vào/ra khỏi hệ kín, nhiệt độ thay đổi thế nào? | If matter cannot enter or exit a closed system, how does a liquid in the system change temperature? | 129 | ✅ |
+| 8 | Bề mặt ly ảnh hưởng đến cách ánh sáng làm nóng chất lỏng thế nào? | How does a cup's surface affect how light warms up a liquid inside the cup? | 141 | ✅ |
+| 9 | Nhiệt độ ngoài ly có ảnh hưởng đến nhiệt độ trong ly không? | How does the temperature of a liquid on one side of a cup wall affect the temperature of a liquid on the other side of the wall? | 159 | ✅ |
+| 10 | Sự khác biệt giữa chất lỏng nóng và lạnh là gì? | What is the difference between a hot and a cold liquid? | 171 | ✅ |
 | 11 | Vì sao các hạt chuyển động nhiều hơn trong chất lỏng nóng? | Why do particles move more in hot liquids? | 185 | ⏳ |
 | 12 | So sánh chuyển động hạt trong mẫu vật ở cùng nhiệt độ | How does the motion of particles compare in a sample of matter at a given temperature? | 197 | ⏳ |
 | 13 | Chuyển động hạt một bên thành rắn ảnh hưởng đến bên kia thế nào? | How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall? | 211 | ⏳ |
@@ -36,7 +36,7 @@
 | 17 | Cải tiến thiết kế ly cách nhiệt | How can we improve our first design to slow energy transfer into the cup system even more? | 267 | ⏳ |
 | 18 | Tổng kết: Vật chứa giữ nhiệt độ thế nào? | How can containers keep stuff from warming up or cooling down? | 279 | ⏳ |
 
-**Tiến độ việt hóa: 5/18 (28%)**
+**Tiến độ việt hóa: 10/18 (56%)**
 
 ## Cấu trúc storyline
 
