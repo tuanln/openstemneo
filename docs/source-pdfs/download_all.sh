@@ -6,7 +6,7 @@
 set -e
 
 BASE="https://openscied-uploads-production.s3.amazonaws.com"
-OUT="content/source"
+OUT="docs/source-pdfs"
 
 echo "📥 Bắt đầu download 18 Teacher Editions từ OpenSciEd S3..."
 echo ""

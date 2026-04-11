@@ -2,21 +2,27 @@
 
 > Đây là **tài liệu nguồn** dùng làm cơ sở để việt hóa thành MDX trong `content/curriculum/`.
 > Tất cả PDF được tải từ S3 công khai của OpenSciEd, license **CC BY 4.0**.
-> File PDF không được commit vào git (xem `.gitignore`) — chạy `bash content/source/download_all.sh` để tải về local.
+> **PDF đã được dời sang `docs/source-pdfs/`** (vẫn gitignored — binary ~649 MB). Chạy `bash docs/source-pdfs/download_all.sh` để tải về local.
+> Thư mục `content/source/` chỉ giữ INDEX + TRANSLATION_WORKFLOW + SUMMARY.md (các file text theo dõi tiến độ).
 
 > 📋 **Quy trình việt hóa**: xem [`TRANSLATION_WORKFLOW.md`](./TRANSLATION_WORKFLOW.md) — cứ sau **5 bài** đã dịch, BẮT BUỘC checkpoint: cập nhật INDEX + SUMMARY + commit.
 
 ## Cấu trúc thư mục
 
 ```
-content/source/
+content/source/                    ← text metadata (committed)
 ├── INDEX.md                       ← file này
-├── DOWNLOAD_GUIDE.md              ← hướng dẫn download chi tiết
-├── download_all.sh                ← script tự động tải 18 PDF
+├── TRANSLATION_WORKFLOW.md        ← quy trình việt hóa (5 bài/checkpoint)
 └── grade-{6,7,8}/
     └── unit-{X-Y}/
-        ├── teacher-edition.pdf    ← bản gốc tiếng Anh (gitignored)
-        ├── SUMMARY.md             ← tóm tắt unit + danh sách bài + tiến độ việt hóa
+        └── SUMMARY.md             ← tóm tắt unit + danh sách bài + tiến độ việt hóa
+
+docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
+├── download_all.sh                ← script tự động tải 18 PDF
+├── DOWNLOAD_GUIDE.md              ← hướng dẫn download chi tiết
+└── grade-{6,7,8}/
+    └── unit-{X-Y}/
+        ├── teacher-edition.pdf    ← bản gốc tiếng Anh
         └── lesson-XX.pdf          ← (tùy chọn) các handout PDF lẻ
 ```
 
