@@ -27,12 +27,12 @@
 | 8 | Da trên chân bạn ấy lành lại thế nào? | What happened as the skin on top of the foot healed? | 181 | ✅ |
 | 9 | Điều gì xảy ra ở chỗ bị thương để lấp khoảng trống? | What is happening at the site of an injury to fill the gap? | 193 | ✅ |
 | 10 | Tế bào cần gì để lớn lên và nhân đôi? | What do cells need to grow and make more of themselves? | 207 | ✅ |
-| 11 | Tế bào lấy những gì nó cần như thế nào? | How do cells get what they need to grow? | 227 | ⬜ |
-| 12 | Các cấu trúc và hệ phối hợp ra sao để chữa lành? | How do the structures and systems in the body work together to heal the injury? | 245 | ⬜ |
-| 13 | Quá trình lớn lên giống quá trình chữa lành ở đâu? | How is the process of growing similar to healing? | 261 | ⬜ |
-| 14 | Thay đổi nhận thức về khả năng và khuyết tật | How can shifting our perceptions of ability and disability allow us to be more thoughtful about how we make our environments more accessible? | 273 | ⬜ |
+| 11 | Tế bào lấy những gì nó cần như thế nào? | How do cells get what they need to grow? | 227 | ✅ |
+| 12 | Các cấu trúc và hệ phối hợp ra sao để chữa lành? | How do the structures and systems in the body work together to heal the injury? | 245 | ✅ |
+| 13 | Quá trình lớn lên giống quá trình chữa lành ở đâu? | How is the process of growing similar to healing? | 261 | ✅ |
+| 14 | Thay đổi nhận thức về khả năng và khuyết tật | How can shifting our perceptions of ability and disability allow us to be more thoughtful about how we make our environments more accessible? | 273 | ✅ |
 
-**Tiến độ việt hóa: 10/14 (71%)**
+**Tiến độ việt hóa: 14/14 (100%) ✅ HOÀN THÀNH**
 
 ## Ý tưởng khoa học chính
 

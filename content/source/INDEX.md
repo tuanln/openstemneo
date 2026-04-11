@@ -31,7 +31,7 @@ content/source/
 | **6.3** | Thời tiết, Khí hậu & Chu trình Nước | 429 | 29.2 MB | 22 | ✅ 22/22 | [G6_UWC](https://openscied-uploads-production.s3.amazonaws.com/G6_UWC/lowres/6.3%20Teacher%20Edition.pdf) |
 | **6.4** | Kiến tạo mảng & Vòng tuần hoàn đá | 354 | 12.8 MB | 14 | ✅ 14/14 | [G6_UPT](https://openscied-uploads-production.s3.amazonaws.com/G6_UPT/lowres/6.4%20Teacher%20Edition.pdf) |
 | **6.5** | Thiên tai | 247 | 10.1 MB | 10 | ✅ 10/10 | [G6_UNH](https://openscied-uploads-production.s3.amazonaws.com/G6_UNH/lowres/6.5%20Teacher%20Edition.pdf) |
-| **6.6** | Tế bào & Hệ cơ thể | 368 | 11.1 MB | 14 | ⏳ 10/14 | [G6_UCL](https://openscied-uploads-production.s3.amazonaws.com/G6_UCL/lowres/6.6%20Teacher%20Edition.pdf) |
+| **6.6** | Tế bào & Hệ cơ thể | 368 | 11.1 MB | 14 | ✅ 14/14 | [G6_UCL](https://openscied-uploads-production.s3.amazonaws.com/G6_UCL/lowres/6.6%20Teacher%20Edition.pdf) |
 
 ### THCS Lớp 7 (6 đơn vị · 2.204 trang · 384 MB)
 
@@ -72,12 +72,12 @@ content/source/
             Unit 6.3 (22/22 lessons)      ~8.2% tổng nội dung
             Unit 6.4 (14/14 lessons)      ~5.2% tổng nội dung
             Unit 6.5 (10/10 lessons)      ~3.7% tổng nội dung
-Đang làm:   Unit 6.6 (10/14 lessons)      CP2/3
-Còn lại:    13 unit (1 Lớp 6, 6 Lớp 7, 6 Lớp 8)
+            Unit 6.6 (14/14 lessons)      ~5.2% tổng nội dung  ← FINAL GRADE 6 ✅
+Còn lại:    12 unit (6 Lớp 7, 6 Lớp 8)
 
-Tổng: 82/268 lessons (30.6%)
-Đơn vị hoàn thành: 5/18 (28%)
-Lớp 6: 82/86 (95%)
+Tổng: 86/268 lessons (32.1%)
+Đơn vị hoàn thành: 6/18 (33%)
+🎓 LỚP 6: 86/86 (100%) — HOÀN TẤT
 ```
 
 ## Quy ước file
