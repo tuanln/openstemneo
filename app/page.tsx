@@ -89,8 +89,8 @@ export default function LandingPage() {
                 Mở · Miễn phí · Tiếng Việt
               </Badge>
               <h1 className="text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-                Học khoa học như một{" "}
-                <span className="text-primary">nhà khoa học thực thụ</span>
+                Đi lại con đường của nhà khoa học{" "}
+                <span className="text-primary">theo cách của mình</span>
               </h1>
               <p className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground sm:text-xl">
                 OpenStemNeo Việt hóa curriculum OpenSciEd — mỗi bài học bắt đầu

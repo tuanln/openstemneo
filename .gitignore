@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# source materials (binary PDFs from OpenSciEd — download locally via content/source/DOWNLOAD_GUIDE.md)
+content/source/**/*.pdf
+content/source/**/*.docx
+content/source/**/*.pptx
+content/source/links.json
+
 # typescript
 *.tsbuildinfo
 

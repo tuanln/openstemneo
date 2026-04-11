@@ -3,7 +3,7 @@ import { ImageResponse } from "next/og";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 export const alt =
-  "OpenStemNeo — Học khoa học như một nhà khoa học thực thụ";
+  "OpenStemNeo — Đi lại con đường của nhà khoa học theo cách của mình";
 
 export default async function OpengraphImage() {
   return new ImageResponse(
@@ -56,17 +56,17 @@ export default async function OpengraphImage() {
             style={{
               display: "flex",
               flexWrap: "wrap",
-              fontSize: "72px",
+              fontSize: "64px",
               fontWeight: 800,
               color: "#0f172a",
-              lineHeight: 1.1,
-              letterSpacing: "-0.03em",
-              maxWidth: "900px",
+              lineHeight: 1.15,
+              letterSpacing: "-0.02em",
+              maxWidth: "1000px",
               gap: "0 18px",
             }}
           >
-            <span>Học khoa học như một</span>
-            <span style={{ color: "#5b5bd6" }}>nhà khoa học</span>
+            <span>Đi lại con đường của nhà khoa học</span>
+            <span style={{ color: "#5b5bd6" }}>theo cách của mình</span>
           </div>
           <div
             style={{

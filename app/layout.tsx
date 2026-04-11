@@ -26,7 +26,7 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "OpenStemNeo — Học khoa học như một nhà khoa học",
+    default: "OpenStemNeo — Đi lại con đường của nhà khoa học theo cách của mình",
     template: "%s · OpenStemNeo",
   },
   description:
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "vi_VN",
-    title: "OpenStemNeo — Học khoa học như một nhà khoa học",
+    title: "OpenStemNeo — Đi lại con đường của nhà khoa học theo cách của mình",
     description:
       "Nền tảng học khoa học K12 tiếng Việt. Mỗi bài học bắt đầu từ một hiện tượng có thật.",
     siteName: "OpenStemNeo",
