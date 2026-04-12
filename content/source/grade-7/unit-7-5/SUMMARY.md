@@ -32,12 +32,12 @@
 | 13 | Hệ sinh thái thay đổi thế nào khi cây thay đổi? | How does an ecosystem change when the plants change? | 221 | ✅ |
 | 14 | Có cách nào trồng thức ăn không hại rừng? | Are there ways people can grow food without harming the tropical rainforest? | 239 | ✅ |
 | 15 | Cách trồng vừa hỗ trợ động thực vật vừa có lợi cho con người | How can people benefit from growing food in ways that support plants and animals? | 247 | ✅ |
-| 16 | Cách trồng nào hoạt động được cho mọi người? | What approach to growing food works for everyone and why? | 255 |
-| 17 | Thiết kế lại cách dùng đất ở Indonesia | How can we redesign the way land is used in Indonesia? | 271 |
-| 18 | Thiết kế của ta hoạt động ra sao? | How do our designs work for orangutans and people in Indonesia? | 289 |
-| 19 | Cách thông tin với cộng đồng về vấn đề dầu cọ | How can we inform others in our community about the palm oil problem? | 307 |
+| 16 | Cách trồng nào hoạt động được cho mọi người? | What approach to growing food works for everyone and why? | 255 | ✅ |
+| 17 | Thiết kế lại cách dùng đất ở Indonesia | How can we redesign the way land is used in Indonesia? | 271 | ✅ |
+| 18 | Thiết kế của ta hoạt động ra sao? | How do our designs work for orangutans and people in Indonesia? | 289 | ✅ |
+| 19 | Cách thông tin với cộng đồng về vấn đề dầu cọ | How can we inform others in our community about the palm oil problem? | 307 | ✅ |
 
-**Tiến độ việt hóa: 15/19**
+**Tiến độ việt hóa: 19/19**
 
 ## Ý tưởng khoa học chính
 
