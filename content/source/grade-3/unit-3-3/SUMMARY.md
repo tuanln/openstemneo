@@ -15,11 +15,11 @@
 
 | # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Loại | Trạng thái |
 |---|---|---|---|---|
-| 1 | Chó con và chó lớn trông và hành xử khác nhau thế nào? | How do newborn and adult dogs look and act differently? | phenomenon | ⬜ |
-| 2 | Điều gì xảy ra giữa lúc mới sinh và khi trưởng thành? | What is happening between being a newborn and being an adult? | investigation | ⬜ |
-| 3 | Chó lớn làm được gì mà chó con không làm được? | What do adult canines do that puppies cannot do (and why)? | investigation | ⬜ |
-| 4 | Các loài động vật khác thay đổi qua đời sống thế nào? | How do other animals change over their lifetime? | making-meaning | ⬜ |
-| 5 | Làm sao đoán được con chó con sẽ trông thế nào? | How can we predict what a canine will look like? | investigation | ⬜ |
+| 1 | Chó con và chó lớn trông và hành xử khác nhau thế nào? | How do newborn and adult dogs look and act differently? | phenomenon | ✅ |
+| 2 | Điều gì xảy ra giữa lúc mới sinh và khi trưởng thành? | What is happening between being a newborn and being an adult? | investigation | ✅ |
+| 3 | Chó lớn làm được gì mà chó con không làm được? | What do adult canines do that puppies cannot do (and why)? | investigation | ✅ |
+| 4 | Các loài động vật khác thay đổi qua đời sống thế nào? | How do other animals change over their lifetime? | making-meaning | ✅ |
+| 5 | Làm sao đoán được con chó con sẽ trông thế nào? | How can we predict what a canine will look like? | investigation | ✅ |
 | 6 | Vì sao chó biết làm điều mà bố mẹ chúng không dạy? | Why can dogs do things they did not learn from their parents or people? | investigation | ⬜ |
 | 7 | Học hỏi ảnh hưởng đến đặc điểm của chó thế nào? | How does learning affect a dog's traits? | investigation | ⬜ |
 | 8 | Vì sao chó nhà trông và hành xử khác nhau? | How can we explain why domesticated dogs look and act the way they do? | investigation | ⬜ |
@@ -30,7 +30,7 @@
 | 13 | Thế giới ngày xưa khi chó và người mới gặp nhau như thế nào? | What was the world like long ago when dogs and humans started working together? | investigation | ⬜ |
 | 14 | Làm sao dùng hóa thạch để hiểu về sinh vật ngày xưa? | How can we use fossils to make sense of plants, animals, and places long ago? | application | ⬜ |
 
-**Tiến độ việt hóa: 0/14**
+**Tiến độ việt hóa: 5/14 (36%)**
 
 ## Ý tưởng khoa học chính
 
