@@ -35,7 +35,7 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
 | Đơn vị | Tên Việt | Bài học | Việt hóa | Storyline |
 |---|---|---|---|---|
 | **3.1** | Lực & Tương tác | 14 | ✅ 14/14 | [G3_UFI](https://openscied-uploads-production.s3.amazonaws.com/G3_UFI/preview/unit-materials/3.1%20Storyline.pdf) |
-| **3.2** | Thời tiết & Thiên tai | 12 | ⏳ 5/12 | [G3_UWH](https://openscied-uploads-production.s3.amazonaws.com/G3_UWH/preview/unit-materials/3.2%20Storyline.pdf) |
+| **3.2** | Thời tiết & Thiên tai | 12 | ⏳ 10/12 | [G3_UWH](https://openscied-uploads-production.s3.amazonaws.com/G3_UWH/preview/unit-materials/3.2%20Storyline.pdf) |
 | **3.3** | Đặc điểm & Sự khác biệt | 14 | ⬜ 0/14 | [G3_UTV](https://openscied-uploads-production.s3.amazonaws.com/G3_UTV/preview/unit-materials/3.3%20Storyline.pdf) |
 | **3.4** | Hệ sinh thái & Sự sinh tồn | 13 | ⬜ 0/13 | [G3_UCH](https://openscied-uploads-production.s3.amazonaws.com/G3_UCH/preview/unit-materials/3.4%20Storyline.pdf) |
 
