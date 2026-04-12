@@ -25,12 +25,12 @@
 | 8 | Làm sao chia sẻ tượng cân bằng kỳ lạ với mọi người? | How can we share oddly balanced sculptures with others? | making-meaning | ✅ |
 | 9 | Tượng nam châm chuyển động bằng cách nào? | How do the new magnetic sculptures move? | phenomenon | ✅ |
 | 10 | Hai nam châm có lực tác động lên nhau không? | If we test two magnets, are there forces between them? | investigation | ✅ |
-| 11 | Sức mạnh và khoảng cách của nam châm ảnh hưởng đến lực thế nào? | How does the strength of a magnet or where it's placed affect forces? | investigation | ⬜ |
-| 12 | Điều gì xảy ra khi đổi nam châm thành vật kim loại? | What happens if we change one magnet to a metal object? | investigation | ⬜ |
-| 13 | Làm sao tạo và chia sẻ một tượng nam châm? | How can we create and share a magnetic sculpture? | making-meaning | ⬜ |
-| 14 | Làm sao dùng nam châm để giải một vấn đề? | How can we use magnets to solve a problem? | application | ⬜ |
+| 11 | Sức mạnh và khoảng cách của nam châm ảnh hưởng đến lực thế nào? | How does the strength of a magnet or where it's placed affect forces? | investigation | ✅ |
+| 12 | Điều gì xảy ra khi đổi nam châm thành vật kim loại? | What happens if we change one magnet to a metal object? | investigation | ✅ |
+| 13 | Làm sao tạo và chia sẻ một tượng nam châm? | How can we create and share a magnetic sculpture? | making-meaning | ✅ |
+| 14 | Làm sao dùng nam châm để giải một vấn đề? | How can we use magnets to solve a problem? | application | ✅ |
 
-**Tiến độ việt hóa: 10/14 (71%)**
+**Tiến độ việt hóa: 14/14 (100%) ✅ HOÀN THÀNH**
 
 ## Ý tưởng khoa học chính
 
