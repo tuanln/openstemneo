@@ -17,11 +17,11 @@
 
 | # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang |
 |---|---|---|---|
-| 1 | Điều gì xảy ra khi hai vật va chạm? | What happens when two things hit each other? | 25 |
-| 2 | Điều gì làm chuyển động và hình dạng vật thay đổi? | What causes changes in the motion and shape of colliding objects? | 53 |
-| 3 | Mọi vật có biến dạng khi bị đẩy không? | Do all objects change shape or bend when they are pushed in a collision? | 73 |
-| 4 | Cần đẩy bao nhiêu để vật biến dạng tạm thời / vĩnh viễn? | How much do you have to push on any object to get it to deform? | 87 |
-| 5 | Khối lượng và tốc độ ảnh hưởng đến lực va chạm thế nào? | How does changing the mass or speed affect the forces during a collision? | 103 |
+| 1 | Điều gì xảy ra khi hai vật va chạm? ✅ | What happens when two things hit each other? | 25 |
+| 2 | Điều gì làm chuyển động và hình dạng vật thay đổi? ✅ | What causes changes in the motion and shape of colliding objects? | 53 |
+| 3 | Mọi vật có biến dạng khi bị đẩy không? ✅ | Do all objects change shape or bend when they are pushed in a collision? | 73 |
+| 4 | Cần đẩy bao nhiêu để vật biến dạng tạm thời / vĩnh viễn? ✅ | How much do you have to push on any object to get it to deform? | 87 |
+| 5 | Khối lượng và tốc độ ảnh hưởng đến lực va chạm thế nào? ✅ | How does changing the mass or speed affect the forces during a collision? | 103 |
 | 6 | Tổng kết những gì đã học về vật va chạm | What have we figured out about objects interacting in collisions? | 127 |
 | 7 | Tốc độ và khối lượng tăng gấp đôi ảnh hưởng đến động năng thế nào? | How much does doubling the speed or mass affect the kinetic energy? | 137 |
 | 8 | Năng lượng trong hệ phóng từ đâu đến và đi đâu sau va chạm? | Where did the energy in our launcher system come from? | 161 |
@@ -34,7 +34,7 @@
 | 15 | Đánh giá thiết kế của một kỹ sư khác | How can we use what we figured out to evaluate another engineer's design? | 283 |
 | 16 | (Tùy chọn) Marketing thiết kế cho nhà đầu tư | (Optional) How can we market our designs to our potential investors? | 293 |
 
-**Tiến độ việt hóa: 0/16**
+**Tiến độ việt hóa: 5/16**
 
 ## Ý tưởng khoa học chính
 

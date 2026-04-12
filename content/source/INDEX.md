@@ -54,7 +54,7 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
 
 | Đơn vị | Tên Việt | Trang | Kích thước | Bài học | Việt hóa | Nguồn |
 |---|---|---|---|---|---|---|
-| **8.1** | Lực tiếp xúc & Va chạm | 374 | 8.0 MB | 16 | ⬜ 0/16 | [G8_UCF](https://openscied-uploads-production.s3.amazonaws.com/G8_UCF/lowres/8.1%20Contact%20Forces%20Teacher%20Edition.pdf) |
+| **8.1** | Lực tiếp xúc & Va chạm | 374 | 8.0 MB | 16 | 🟡 5/16 | [G8_UCF](https://openscied-uploads-production.s3.amazonaws.com/G8_UCF/lowres/8.1%20Contact%20Forces%20Teacher%20Edition.pdf) |
 | **8.2** | Sóng âm | 289 | 6.0 MB | 14 | ⬜ 0/14 | [G8_USO](https://openscied-uploads-production.s3.amazonaws.com/G8_USO/lowres/8.2%20Sound%20Waves%20Teacher%20Edition.pdf) |
 | **8.3** | Lực từ xa | 265 | 40.5 MB | 12 | ⬜ 0/12 | [G8_UDF](https://openscied-uploads-production.s3.amazonaws.com/G8_UDF/hires/8.3%20Forces%20at%20a%20Distance%20Teacher%20Edition.pdf) |
 | **8.4** | Trái Đất trong Không gian | 376 | 61.0 MB | 17 | ⬜ 0/17 | [G8_USS](https://openscied-uploads-production.s3.amazonaws.com/G8_USS/hires/8.4%20Earth%20in%20Space%20Teacher%20Edition.pdf) |
@@ -87,7 +87,7 @@ Chiến lược mới: mỗi cấp/lớp làm 1 unit đầu làm sample
 - Lớp 8: Unit 8.1 only (sample, sắp tới)
 - Lớp 3 (cấp 1): Unit 3.1 only (sample, sắp tới)
 
-Tổng: 100/268 lessons (37.3%)
+Tổng: 105/268 lessons (39.2%)
 Đơn vị hoàn thành: 7/18 (39%)
 🎓 LỚP 6: 86/86 (100%)
 ✅ Lớp 7 sample: 14/14 Unit 7.1
