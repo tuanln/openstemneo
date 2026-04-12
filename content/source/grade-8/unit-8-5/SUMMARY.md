@@ -35,7 +35,7 @@
 | 16 | Bao nhiêu phần biến dị do gen, bao nhiêu do môi trường? | How much of trait variation is controlled by genes or by the environment? | 285 |
 | 17 | Tổng kết: Vì sao sinh vật khác nhau? | Why are living things different from one another? | 309 |
 
-**Tiến độ việt hóa: 5/17**
+**Tiến độ việt hóa: 10/17**
 
 ## Ý tưởng khoa học chính
 
