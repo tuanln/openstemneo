@@ -45,6 +45,36 @@
     "sourceUrl": "https://www.openscied.org/instructional-materials/k-3-forces-motion/"
   },
   {
+    "id": "1-1",
+    "gradeLevel": 1,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Sóng: Ánh sáng",
+    "titleEn": "Waves: Light",
+    "drivingQuestion": "Làm sao em có thể đọc dưới chăn khi trời tối?",
+    "phenomenon": "Em thử đọc sách dưới các loại chăn khác nhau — rèm trong thì sáng, chăn dày thì tối. Ánh sáng đi qua một số vật nhưng không qua vật khác. Tại sao?",
+    "standards": ["1-PS4-2", "1-PS4-3"],
+    "totalLessons": 9,
+    "estimatedWeeks": 4,
+    "icon": "🔦",
+    "color": "amber",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/1-1-waves-light/"
+  },
+  {
+    "id": "2-1",
+    "gradeLevel": 2,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Trái Đất: Đất thay đổi hình dạng",
+    "titleEn": "Earth: Land Changing Shape",
+    "drivingQuestion": "Gió và nước thay đổi hình dạng đất thế nào, và em có thể làm gì?",
+    "phenomenon": "Bờ biển thay đổi qua từng năm — cát bị sóng cuốn đi, vách đá bị mòn. Em tìm hiểu cách nước và gió thay đổi đất, rồi thiết kế cách giảm thiểu xói mòn.",
+    "standards": ["2-ESS1-1", "2-ESS2-1"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "🌊",
+    "color": "stone",
+    "sourceUrl": ""
+  },
+  {
     "id": "3-1",
     "gradeLevel": 3,
     "subjectArea": "Khoa học tự nhiên",
@@ -103,6 +133,36 @@
     "icon": "🐬",
     "color": "cyan",
     "sourceUrl": "https://www.openscied.org/instructional-materials/3-4-ecosystem-change-survival/"
+  },
+  {
+    "id": "4-1",
+    "gradeLevel": 4,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Chuyển giao năng lượng: Va chạm",
+    "titleEn": "Energy Transfer: Collisions",
+    "drivingQuestion": "Tại sao chuyển động của vật thay đổi?",
+    "phenomenon": "Đá bóng mạnh → bay xa, đá nhẹ → gần. Trên cỏ dừng nhanh, sân cứng lăn xa. Em khám phá lực, năng lượng, và va chạm qua các thí nghiệm.",
+    "standards": ["4-PS3-1", "4-PS3-3"],
+    "totalLessons": 11,
+    "estimatedWeeks": 4,
+    "icon": "⚽",
+    "color": "red",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/4-1-energy-transfer-collisions/"
+  },
+  {
+    "id": "5-1",
+    "gradeLevel": 5,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Hệ sinh thái & Chu trình vật chất",
+    "titleEn": "Ecosystems & Matter Cycling",
+    "drivingQuestion": "Cây gỗ mục giúp các sinh vật khác sống và lớn lên thế nào?",
+    "phenomenon": "Trong rừng có 'cây nuôi dưỡng' (nurse log) — cây gỗ mục với nấm, rêu, cây con mọc trên. Cây CHẾT nhưng lại giúp sinh vật SỐNG. Em khám phá chu trình vật chất và năng lượng trong hệ sinh thái.",
+    "standards": ["5-LS2-1", "5-PS3-1"],
+    "totalLessons": 12,
+    "estimatedWeeks": 5,
+    "icon": "🪵",
+    "color": "emerald",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/5-1-ecosystems-matter-cycling/"
   },
   {
     "id": "6-1",
