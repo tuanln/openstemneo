@@ -22,11 +22,11 @@
 | 3 | Có thể trồng cọ ở nơi khác để không phá rừng không? | Can we grow oil palm trees somewhere else? | 69 | ✅ |
 | 4 | Vì sao người ta vẫn chặt rừng dù biết hại động vật? | Why do people cut down tropical rainforests when they know it is harmful? | 81 | ✅ |
 | 5 | Thay đổi cộng đồng đã ảnh hưởng đến những gì sống ở đó? | How have changes in our community affected what lives here? | 93 | ✅ |
-| 6 | Nếu không bỏ được dầu cọ, làm sao thiết kế trang trại tốt cho cả hai? | If palm oil is not going away, how can we design palm farms to support orangutans and farmers? | 107 |
-| 7 | Bao nhiêu đười ươi sống trong rừng nhiệt đới? | How many orangutans typically live in the tropical rainforest? | 117 |
-| 8 | Vì sao đười ươi cần nhiều rừng đến vậy? | Why do orangutans need so much forest space? | 133 |
-| 9 | Trồng thêm cây ăn quả có giúp đười ươi tăng số không? | Would planting more rainforest fruit trees help the orangutan population increase? | 155 |
-| 10 | Thay đổi tài nguyên ảnh hưởng đến quần thể thế nào? | How do changes in the amount of resources affect populations? | 175 |
+| 6 | Nếu không bỏ được dầu cọ, làm sao thiết kế trang trại tốt cho cả hai? | If palm oil is not going away, how can we design palm farms to support orangutans and farmers? | 107 | ✅ |
+| 7 | Bao nhiêu đười ươi sống trong rừng nhiệt đới? | How many orangutans typically live in the tropical rainforest? | 117 | ✅ |
+| 8 | Vì sao đười ươi cần nhiều rừng đến vậy? | Why do orangutans need so much forest space? | 133 | ✅ |
+| 9 | Trồng thêm cây ăn quả có giúp đười ươi tăng số không? | Would planting more rainforest fruit trees help the orangutan population increase? | 155 | ✅ |
+| 10 | Thay đổi tài nguyên ảnh hưởng đến quần thể thế nào? | How do changes in the amount of resources affect populations? | 175 | ✅ |
 | 11 | Trồng cọ ảnh hưởng đến các quần thể khác thế nào? | How does planting oil palm affect other populations? | 193 |
 | 12 | Điều gì xảy ra nếu đười ươi tuyệt chủng? | What would happen if orangutans go extinct? | 209 |
 | 13 | Hệ sinh thái thay đổi thế nào khi cây thay đổi? | How does an ecosystem change when the plants change? | 221 |
@@ -37,7 +37,7 @@
 | 18 | Thiết kế của ta hoạt động ra sao? | How do our designs work for orangutans and people in Indonesia? | 289 |
 | 19 | Cách thông tin với cộng đồng về vấn đề dầu cọ | How can we inform others in our community about the palm oil problem? | 307 |
 
-**Tiến độ việt hóa: 5/19**
+**Tiến độ việt hóa: 10/19**
 
 ## Ý tưởng khoa học chính
 
