@@ -15,6 +15,36 @@
     "sourceUrl": "https://www.openscied.org/instructional-materials/k-1-energy-sunlight/"
   },
   {
+    "id": "K-2",
+    "gradeLevel": 0,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Thời tiết",
+    "titleEn": "Weather",
+    "drivingQuestion": "Làm sao em chuẩn bị cho thời tiết?",
+    "phenomenon": "Mỗi ngày em đi ra ngoài, thời tiết lại khác: có ngày nắng nóng, có ngày mưa lạnh, có ngày gió mạnh. Em quan sát thời tiết, đo nhiệt độ, làm ống đo mưa, rồi tìm quy luật. Em còn tìm hiểu về thời tiết khắc nghiệt và làm Bản Tin Thời Tiết cho cộng đồng!",
+    "standards": ["K-ESS2-1", "K-ESS3-2"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "🌤️",
+    "color": "sky",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/k-2-weather/"
+  },
+  {
+    "id": "K-3",
+    "gradeLevel": 0,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Lực & Chuyển động",
+    "titleEn": "Forces & Motion",
+    "drivingQuestion": "Làm sao em di chuyển đồ vật đến nơi em muốn?",
+    "phenomenon": "Em đẩy và kéo đồ vật — có cái đi xa, có cái đi gần, có cái đổi hướng khi va chạm. Em tìm hiểu đẩy mạnh và nhẹ khác nhau thế nào, rồi dùng kiến thức đó để thiết kế trò chơi bàn có bóng lăn qua vật cản!",
+    "standards": ["K-PS2-1", "K-PS2-2"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "🏗️",
+    "color": "orange",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/k-3-forces-motion/"
+  },
+  {
     "id": "3-1",
     "gradeLevel": 3,
     "subjectArea": "Khoa học tự nhiên",
