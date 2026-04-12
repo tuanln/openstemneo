@@ -25,12 +25,12 @@
 | 8 | Vì sao chó nhà trông và hành xử khác nhau? | How can we explain why domesticated dogs look and act the way they do? | investigation | ✅ |
 | 9 | Vì sao chó hoang trông và hành xử như vậy? | What causes wild canines to look and act the way they do? | investigation | ✅ |
 | 10 | Vì sao động vật trông và hành xử theo cách của chúng? | Why do animals look and act the way they do? | making-meaning | ✅ |
-| 11 | Chó và người làm việc cùng nhau bao lâu rồi? | How long have people and dogs been working together? | phenomenon | ⬜ |
-| 12 | Làm sao biết chó và người bắt đầu làm việc cùng nhau? | How do we know when dogs and humans started working together? | investigation | ⬜ |
-| 13 | Thế giới ngày xưa khi chó và người mới gặp nhau như thế nào? | What was the world like long ago when dogs and humans started working together? | investigation | ⬜ |
-| 14 | Làm sao dùng hóa thạch để hiểu về sinh vật ngày xưa? | How can we use fossils to make sense of plants, animals, and places long ago? | application | ⬜ |
+| 11 | Chó và người làm việc cùng nhau bao lâu rồi? | How long have people and dogs been working together? | phenomenon | ✅ |
+| 12 | Làm sao biết chó và người bắt đầu làm việc cùng nhau? | How do we know when dogs and humans started working together? | investigation | ✅ |
+| 13 | Thế giới ngày xưa khi chó và người mới gặp nhau như thế nào? | What was the world like long ago when dogs and humans started working together? | investigation | ✅ |
+| 14 | Làm sao dùng hóa thạch để hiểu về sinh vật ngày xưa? | How can we use fossils to make sense of plants, animals, and places long ago? | application | ✅ |
 
-**Tiến độ việt hóa: 10/14 (71%)**
+**Tiến độ việt hóa: 14/14 (100%) ✅ HOÀN THÀNH**
 
 ## Ý tưởng khoa học chính
 
