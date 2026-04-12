@@ -1,4 +1,4 @@
-export type GradeLevel = 6 | 7 | 8;
+export type GradeLevel = 3 | 6 | 7 | 8;
 
 export type LessonType =
   | "phenomenon"

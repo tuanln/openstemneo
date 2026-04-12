@@ -26,7 +26,18 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
         └── lesson-XX.pdf          ← (tùy chọn) các handout PDF lẻ
 ```
 
-## 18 Teacher Editions — Bảng tổng quan
+## 18 Teacher Editions THCS + 4 Storyline Tiểu học — Bảng tổng quan
+
+### Tiểu học Lớp 3 (4 đơn vị · 53 lessons) — OpenSciEd Elementary
+
+> **Lưu ý**: chỉ có **storyline PDF** công khai. Teacher Edition đầy đủ yêu cầu đăng nhập tài khoản OpenSciEd. Việt hóa dựa trên storyline + pedagogy đã hiểu rõ qua THCS.
+
+| Đơn vị | Tên Việt | Bài học | Việt hóa | Storyline |
+|---|---|---|---|---|
+| **3.1** | Lực & Tương tác | 14 | ⬜ 0/14 | [G3_UFI](https://openscied-uploads-production.s3.amazonaws.com/G3_UFI/preview/unit-materials/3.1%20Storyline.pdf) |
+| **3.2** | Thời tiết & Thiên tai | 12 | ⬜ 0/12 | [G3_UWH](https://openscied-uploads-production.s3.amazonaws.com/G3_UWH/preview/unit-materials/3.2%20Storyline.pdf) |
+| **3.3** | Đặc điểm & Sự khác biệt | 14 | ⬜ 0/14 | [G3_UTV](https://openscied-uploads-production.s3.amazonaws.com/G3_UTV/preview/unit-materials/3.3%20Storyline.pdf) |
+| **3.4** | Hệ sinh thái & Sự sinh tồn | 13 | ⬜ 0/13 | [G3_UCH](https://openscied-uploads-production.s3.amazonaws.com/G3_UCH/preview/unit-materials/3.4%20Storyline.pdf) |
 
 ### THCS Lớp 6 (6 đơn vị · 1.328 trang · 81 MB)
 
