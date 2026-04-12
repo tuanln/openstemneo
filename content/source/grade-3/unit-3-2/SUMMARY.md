@@ -25,10 +25,10 @@
 | 8 | Thời tiết nguy hiểm ảnh hưởng đến cây như thế nào? | How can weather hazards affect plants? | investigation | ✅ |
 | 9 | Người làm vườn bảo vệ cây khỏi gió bằng cách nào? | How do farmers and engineers protect plants from wind damage? | investigation | ✅ |
 | 10 | Thiết kế chắn gió của em hiệu quả thế nào? | How well do our windbreak designs reduce the impact of wind on plants? | investigation | ✅ |
-| 11 | Tại sao và làm sao so sánh các giải pháp thiết kế? | How and why do we compare design solutions before making decisions? | investigation | ⬜ |
-| 12 | Làm sao chọn giải pháp bảo vệ cây khỏi thời tiết? | How can we choose solutions that protect plants from weather-related hazards? | application | ⬜ |
+| 11 | Tại sao và làm sao so sánh các giải pháp thiết kế? | How and why do we compare design solutions before making decisions? | investigation | ✅ |
+| 12 | Làm sao chọn giải pháp bảo vệ cây khỏi thời tiết? | How can we choose solutions that protect plants from weather-related hazards? | application | ✅ |
 
-**Tiến độ việt hóa: 10/12 (83%)**
+**Tiến độ việt hóa: 12/12 (100%) ✅ HOÀN THÀNH**
 
 ## Ý tưởng khoa học chính
 
