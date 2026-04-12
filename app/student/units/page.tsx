@@ -19,7 +19,11 @@ export default async function UnitsPage({ searchParams }: PageProps) {
 
   const grade =
     gradeParam === "0" ||
+    gradeParam === "1" ||
+    gradeParam === "2" ||
     gradeParam === "3" ||
+    gradeParam === "4" ||
+    gradeParam === "5" ||
     gradeParam === "6" ||
     gradeParam === "7" ||
     gradeParam === "8"
@@ -30,7 +34,7 @@ export default async function UnitsPage({ searchParams }: PageProps) {
   const units = grade !== undefined
     ? allUnits.filter((u) => u.gradeLevel === grade)
     : allUnits;
-  const grouped: Record<number, typeof units> = { 0: [], 3: [], 6: [], 7: [], 8: [] };
+  const grouped: Record<number, typeof units> = { 0: [], 1: [], 2: [], 3: [], 4: [], 5: [], 6: [], 7: [], 8: [] };
   for (const u of units) grouped[u.gradeLevel]?.push(u);
 
   return (
@@ -61,7 +65,7 @@ export default async function UnitsPage({ searchParams }: PageProps) {
           </div>
         </section>
       ) : (
-        ([0, 3, 6, 7, 8] as const).map((g) => {
+        ([0, 1, 2, 3, 4, 5, 6, 7, 8] as const).map((g) => {
           const unitsInGrade = grouped[g] ?? [];
           if (unitsInGrade.length === 0) return null;
           const readyCount = unitsInGrade.filter(
