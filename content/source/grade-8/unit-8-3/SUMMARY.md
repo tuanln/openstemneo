@@ -30,7 +30,7 @@
 | 11 | Cái gì khác quyết định cường độ lực giữa hai nam châm? | What else determines the strength of the force pairs? | 197 |
 | 12 | Quan hệ nhân quả giải thích lực từ xa làm việc thế nào? | What cause-effect relationships explain how magnetic forces at a distance work? | 211 |
 
-**Tiến độ việt hóa: 0/12**
+**Tiến độ việt hóa: 5/12**
 
 ## Ý tưởng khoa học chính
 
