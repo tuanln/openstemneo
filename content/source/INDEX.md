@@ -34,7 +34,7 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
 
 | Đơn vị | Tên Việt | Bài học | Việt hóa | Storyline |
 |---|---|---|---|---|
-| **3.1** | Lực & Tương tác | 14 | ⬜ 0/14 | [G3_UFI](https://openscied-uploads-production.s3.amazonaws.com/G3_UFI/preview/unit-materials/3.1%20Storyline.pdf) |
+| **3.1** | Lực & Tương tác | 14 | ⏳ 5/14 | [G3_UFI](https://openscied-uploads-production.s3.amazonaws.com/G3_UFI/preview/unit-materials/3.1%20Storyline.pdf) |
 | **3.2** | Thời tiết & Thiên tai | 12 | ⬜ 0/12 | [G3_UWH](https://openscied-uploads-production.s3.amazonaws.com/G3_UWH/preview/unit-materials/3.2%20Storyline.pdf) |
 | **3.3** | Đặc điểm & Sự khác biệt | 14 | ⬜ 0/14 | [G3_UTV](https://openscied-uploads-production.s3.amazonaws.com/G3_UTV/preview/unit-materials/3.3%20Storyline.pdf) |
 | **3.4** | Hệ sinh thái & Sự sinh tồn | 13 | ⬜ 0/13 | [G3_UCH](https://openscied-uploads-production.s3.amazonaws.com/G3_UCH/preview/unit-materials/3.4%20Storyline.pdf) |
@@ -65,7 +65,7 @@ docs/source-pdfs/                  ← binary PDFs (gitignored ~649 MB)
 
 | Đơn vị | Tên Việt | Trang | Kích thước | Bài học | Việt hóa | Nguồn |
 |---|---|---|---|---|---|---|
-| **8.1** | Lực tiếp xúc & Va chạm | 374 | 8.0 MB | 16 | 🟡 10/16 | [G8_UCF](https://openscied-uploads-production.s3.amazonaws.com/G8_UCF/lowres/8.1%20Contact%20Forces%20Teacher%20Edition.pdf) |
+| **8.1** | Lực tiếp xúc & Va chạm | 374 | 8.0 MB | 16 | 🟡 15/16 | [G8_UCF](https://openscied-uploads-production.s3.amazonaws.com/G8_UCF/lowres/8.1%20Contact%20Forces%20Teacher%20Edition.pdf) |
 | **8.2** | Sóng âm | 289 | 6.0 MB | 14 | ⬜ 0/14 | [G8_USO](https://openscied-uploads-production.s3.amazonaws.com/G8_USO/lowres/8.2%20Sound%20Waves%20Teacher%20Edition.pdf) |
 | **8.3** | Lực từ xa | 265 | 40.5 MB | 12 | ⬜ 0/12 | [G8_UDF](https://openscied-uploads-production.s3.amazonaws.com/G8_UDF/hires/8.3%20Forces%20at%20a%20Distance%20Teacher%20Edition.pdf) |
 | **8.4** | Trái Đất trong Không gian | 376 | 61.0 MB | 17 | ⬜ 0/17 | [G8_USS](https://openscied-uploads-production.s3.amazonaws.com/G8_USS/hires/8.4%20Earth%20in%20Space%20Teacher%20Edition.pdf) |
@@ -98,7 +98,7 @@ Chiến lược mới: mỗi cấp/lớp làm 1 unit đầu làm sample
 - Lớp 8: Unit 8.1 only (sample, sắp tới)
 - Lớp 3 (cấp 1): Unit 3.1 only (sample, sắp tới)
 
-Tổng: 110/268 lessons (41.0%)
+Tổng: 115/268 lessons (42.9%)
 Đơn vị hoàn thành: 7/18 (39%)
 🎓 LỚP 6: 86/86 (100%)
 ✅ Lớp 7 sample: 14/14 Unit 7.1

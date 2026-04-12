@@ -27,14 +27,14 @@
 | 8 | Năng lượng trong hệ phóng từ đâu đến và đi đâu sau va chạm? ✅ | Where did the energy in our launcher system come from? | 161 |
 | 9 | Lực tiếp xúc khác (không khí, đường ray) gây truyền năng lượng thế nào? ✅ | How do other contact forces cause energy transfers? | 175 |
 | 10 | Vì sao một số vật vỡ và một số không khi va chạm? ✅ | Why do some objects break or not break in a collision? | 189 |
-| 11 | Có thể thiết kế gì để bảo vệ vật trong va chạm? | What can we design to better protect objects in a collision? | 203 |
-| 12 | Vật liệu nào giảm lực va chạm tốt nhất? | What materials best reduce the peak forces in a collision? | 219 |
-| 13 | Cấu trúc đệm ảnh hưởng đến lực thế nào? | How does the structure of a cushioning material affect the peak forces? | 237 |
-| 14 | Dùng ý tưởng khoa học và nhu cầu xã hội để cải tiến thiết kế | How can we use our science ideas and other societal wants and needs to refine our designs? | 267 |
-| 15 | Đánh giá thiết kế của một kỹ sư khác | How can we use what we figured out to evaluate another engineer's design? | 283 |
+| 11 | Có thể thiết kế gì để bảo vệ vật trong va chạm? ✅ | What can we design to better protect objects in a collision? | 203 |
+| 12 | Vật liệu nào giảm lực va chạm tốt nhất? ✅ | What materials best reduce the peak forces in a collision? | 219 |
+| 13 | Cấu trúc đệm ảnh hưởng đến lực thế nào? ✅ | How does the structure of a cushioning material affect the peak forces? | 237 |
+| 14 | Dùng ý tưởng khoa học và nhu cầu xã hội để cải tiến thiết kế ✅ | How can we use our science ideas and other societal wants and needs to refine our designs? | 267 |
+| 15 | Đánh giá thiết kế của một kỹ sư khác ✅ | How can we use what we figured out to evaluate another engineer's design? | 283 |
 | 16 | (Tùy chọn) Marketing thiết kế cho nhà đầu tư | (Optional) How can we market our designs to our potential investors? | 293 |
 
-**Tiến độ việt hóa: 10/16**
+**Tiến độ việt hóa: 15/16**
 
 ## Ý tưởng khoa học chính
 
