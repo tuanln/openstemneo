@@ -15,11 +15,11 @@
 
 | # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Loại | Trạng thái |
 |---|---|---|---|---|
-| 1 | Vì sao bò biển tham gia bầy cá heo ở Tampa Bay? | Why does a manatee join a group of dolphins in the waters around Tampa Bay? | phenomenon | ⬜ |
-| 2 | Bò biển và cá heo sống ở đâu, môi trường ra sao? | Where do manatees and dolphins live and what is it like there? | investigation | ⬜ |
-| 3 | Bò biển và cá heo có sống cùng vùng nước cả năm không? | Do manatees and dolphins share the same waters all year? | investigation | ⬜ |
-| 4 | Còn loài nào khác sống trong vùng nước này? | Which other animals and plants live in these waters? | investigation | ⬜ |
-| 5 | Làm sao tìm hiểu thêm về cỏ biển? | How can we figure out more about seagrass? | investigation | ⬜ |
+| 1 | Vì sao bò biển tham gia bầy cá heo ở Tampa Bay? | Why does a manatee join a group of dolphins in the waters around Tampa Bay? | phenomenon | ✅ |
+| 2 | Bò biển và cá heo sống ở đâu, môi trường ra sao? | Where do manatees and dolphins live and what is it like there? | investigation | ✅ |
+| 3 | Bò biển và cá heo có sống cùng vùng nước cả năm không? | Do manatees and dolphins share the same waters all year? | investigation | ✅ |
+| 4 | Còn loài nào khác sống trong vùng nước này? | Which other animals and plants live in these waters? | investigation | ✅ |
+| 5 | Làm sao tìm hiểu thêm về cỏ biển? | How can we figure out more about seagrass? | investigation | ✅ |
 | 6 | Vì sao có nhiều loại cỏ biển khác nhau? | How does the seagrass get to be different? | investigation | ⬜ |
 | 7 | Vì sao một số động vật sống thành bầy? | Why do some animals live in groups? | investigation | ⬜ |
 | 8 | Vì sao bò biển và cá heo lập bầy khi bình thường không có? | Why did the manatee and dolphins form a group when they usually do not? | making-meaning | ⬜ |
@@ -29,7 +29,7 @@
 | 12 | Làm sao thiết kế giải pháp bảo vệ bò biển và môi trường sống? | How can we design solutions to protect manatees and their habitats? | making-meaning | ⬜ |
 | 13 | Làm sao chọn giải pháp bảo vệ động thực vật khi môi trường thay đổi? | How can we choose solutions that protect plants and animals from changes in their environment? | application | ⬜ |
 
-**Tiến độ việt hóa: 0/13**
+**Tiến độ việt hóa: 5/13 (38%)**
 
 ## Ý tưởng khoa học chính
 
