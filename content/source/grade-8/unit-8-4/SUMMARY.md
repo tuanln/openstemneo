@@ -35,7 +35,7 @@
 | 16 | Quy luật và hiện tượng ngoài hệ Mặt Trời | What patterns and phenomena are beyond our solar system? | 281 |
 | 17 | Chúng ta kết nối với mọi hệ thống trong không gian thế nào? | How are we connected to all of the systems in space? | 291 |
 
-**Tiến độ việt hóa: 0/17**
+**Tiến độ việt hóa: 5/17**
 
 ## Ý tưởng khoa học chính
 
