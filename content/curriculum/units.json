@@ -165,6 +165,36 @@
     "sourceUrl": "https://www.openscied.org/instructional-materials/5-1-ecosystems-matter-cycling/"
   },
   {
+    "id": "5-2",
+    "gradeLevel": 5,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Tính chất Vật chất",
+    "titleEn": "Matter Properties",
+    "drivingQuestion": "Làm sao em làm nước sạch cho mọi sinh vật?",
+    "phenomenon": "Em có 5 mẫu nước trông rất khác nhau — có mẫu trong, có mẫu đục, có mẫu có mùi. Mẫu nào sạch cho sinh vật? Em khám phá tính chất vật chất, thiết kế bộ lọc, thử đun sôi và thêm chất xử lý. Cuối cùng em thiết kế giải pháp nước sạch cho cộng đồng và tạo môi trường sống sạch cho rùa!",
+    "standards": ["5-PS1-1", "5-PS1-3", "5-ESS2-2"],
+    "totalLessons": 15,
+    "estimatedWeeks": 6,
+    "icon": "💧",
+    "color": "sky",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/5-2-matter-properties/"
+  },
+  {
+    "id": "5-3",
+    "gradeLevel": 5,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Hệ thống Trái Đất",
+    "titleEn": "Earth Systems",
+    "drivingQuestion": "Thay đổi dòng nước ảnh hưởng hệ thống Trái Đất thế nào?",
+    "phenomenon": "Đập Elwha được xây trên sông Elwha năm 1913, chặn cá hồi, trầm tích, và thay đổi toàn bộ hệ sinh thái. Người Klallam bản địa mất nguồn sống. Em tìm hiểu 4 hệ thống Trái Đất (sinh quyển, địa quyển, thủy quyển, khí quyển), khám phá vòng tuần hoàn nước, và thiết kế giải pháp cho vấn đề nước ngọt.",
+    "standards": ["5-ESS2-1", "5-ESS2-2", "5-ESS3-1"],
+    "totalLessons": 14,
+    "estimatedWeeks": 5,
+    "icon": "🌍",
+    "color": "stone",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/5-3-earth-systems/"
+  },
+  {
     "id": "6-1",
     "gradeLevel": 6,
     "subjectArea": "Khoa học tự nhiên",

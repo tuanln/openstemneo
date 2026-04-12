@@ -50,16 +50,26 @@ export default async function UnitDetailPage({ params }: PageProps) {
 
       <PhenomenonBanner unit={unit} variant="hero" />
 
+      {lessons.length < unit.totalLessons && (
+        <div className="rounded-xl border border-amber-200 bg-amber-50 p-4 text-sm text-amber-900 dark:border-amber-900/50 dark:bg-amber-950/30 dark:text-amber-100">
+          <p className="font-semibold">🚧 Đang phát triển</p>
+          <p className="mt-1 text-amber-800 dark:text-amber-200">
+            Đơn vị này hiện có <strong>{lessons.length}/{unit.totalLessons}</strong> bài học.
+            Các bài còn lại đang được biên soạn — hãy quay lại sau nhé!
+          </p>
+        </div>
+      )}
+
       <section>
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-lg font-semibold">Các bài học</h2>
           <span className="text-sm text-muted-foreground">
-            {available.length}/{lessons.length} bài đã sẵn sàng
+            {available.length}/{unit.totalLessons} bài đã sẵn sàng
           </span>
         </div>
         {lessons.length === 0 ? (
           <p className="rounded-lg border border-dashed p-6 text-center text-sm text-muted-foreground">
-            Các bài học của đơn vị này đang được chuẩn bị. Hãy quay lại sau nhé!
+            🚧 Các bài học của đơn vị này đang được biên soạn. Hãy quay lại sau nhé!
           </p>
         ) : (
           <div className="space-y-3">

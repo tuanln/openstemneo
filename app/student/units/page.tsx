@@ -42,10 +42,13 @@ export default async function UnitsPage({ searchParams }: PageProps) {
       <header>
         <h1 className="text-2xl font-bold sm:text-3xl">Đơn vị học</h1>
         <p className="mt-2 text-muted-foreground">
-          {grade
-            ? `${units.length} đơn vị dành cho Lớp ${grade}.`
-            : `${units.length} đơn vị học khoa học THCS theo chương trình phenomenon-based.`}
+          {grade !== undefined
+            ? `${units.length} đơn vị dành cho ${grade === 0 ? "Mẫu giáo" : `Lớp ${grade}`}.`
+            : `${units.length} đơn vị học khoa học từ Mẫu giáo đến Lớp 8 theo chương trình phenomenon-based.`}
         </p>
+        <div className="mt-3 rounded-lg border border-amber-200 bg-amber-50 px-4 py-2.5 text-xs text-amber-800 dark:border-amber-800 dark:bg-amber-950/40 dark:text-amber-200">
+          🚧 <strong>Đang phát triển:</strong> Lớp 3, 6, 7, 8 đã hoàn thiện đầy đủ. Mẫu giáo, Lớp 1, 2, 4, 5 đang được biên soạn — một số đơn vị chỉ có bài mẫu.
+        </div>
       </header>
 
       <Suspense fallback={null}>

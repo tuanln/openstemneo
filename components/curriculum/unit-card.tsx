@@ -24,8 +24,9 @@ export function UnitCard({
   availableLessons,
 }: UnitCardProps) {
   const hasContent = availableLessons === undefined || availableLessons > 0;
+  const isPartial = hasContent && availableLessons !== undefined && availableLessons < unit.totalLessons;
   const cardLabel = hasContent
-    ? `Đơn vị ${unit.id}: ${unit.title}`
+    ? `Đơn vị ${unit.id}: ${unit.title}${isPartial ? " — đang phát triển" : ""}`
     : `Đơn vị ${unit.id}: ${unit.title} — đang chuẩn bị nội dung`;
 
   return (
@@ -51,6 +52,16 @@ export function UnitCard({
             >
               <Sparkles className="h-2.5 w-2.5" />
               Đang chuẩn bị
+            </Badge>
+          </div>
+        )}
+        {isPartial && (
+          <div className="absolute right-3 top-3 z-10">
+            <Badge
+              variant="secondary"
+              className="gap-1 border-amber-300 bg-amber-50 text-[10px] font-semibold uppercase tracking-wider text-amber-800 shadow-sm dark:border-amber-800 dark:bg-amber-950 dark:text-amber-200"
+            >
+              🚧 Đang phát triển
             </Badge>
           </div>
         )}
