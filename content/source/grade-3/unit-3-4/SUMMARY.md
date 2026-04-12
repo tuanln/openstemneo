@@ -20,16 +20,16 @@
 | 3 | Bò biển và cá heo có sống cùng vùng nước cả năm không? | Do manatees and dolphins share the same waters all year? | investigation | ✅ |
 | 4 | Còn loài nào khác sống trong vùng nước này? | Which other animals and plants live in these waters? | investigation | ✅ |
 | 5 | Làm sao tìm hiểu thêm về cỏ biển? | How can we figure out more about seagrass? | investigation | ✅ |
-| 6 | Vì sao có nhiều loại cỏ biển khác nhau? | How does the seagrass get to be different? | investigation | ⬜ |
-| 7 | Vì sao một số động vật sống thành bầy? | Why do some animals live in groups? | investigation | ⬜ |
-| 8 | Vì sao bò biển và cá heo lập bầy khi bình thường không có? | Why did the manatee and dolphins form a group when they usually do not? | making-meaning | ⬜ |
-| 9 | Vì sao bò biển khó sống dù được bảo vệ? | Why are manatees struggling to survive if they are protected? | phenomenon | ⬜ |
-| 10 | Làm sao đảm bảo bò biển có nước ấm? | What should we do to make sure manatees have access to warm water? | investigation | ⬜ |
-| 11 | Làm sao bảo vệ cỏ biển và bò biển khỏi tàu thuyền? | What should we do to make sure manatees have seagrass and protection from boats? | investigation | ⬜ |
-| 12 | Làm sao thiết kế giải pháp bảo vệ bò biển và môi trường sống? | How can we design solutions to protect manatees and their habitats? | making-meaning | ⬜ |
-| 13 | Làm sao chọn giải pháp bảo vệ động thực vật khi môi trường thay đổi? | How can we choose solutions that protect plants and animals from changes in their environment? | application | ⬜ |
+| 6 | Vì sao có nhiều loại cỏ biển khác nhau? | How does the seagrass get to be different? | investigation | ✅ |
+| 7 | Vì sao một số động vật sống thành bầy? | Why do some animals live in groups? | investigation | ✅ |
+| 8 | Vì sao bò biển và cá heo lập bầy khi bình thường không có? | Why did the manatee and dolphins form a group when they usually do not? | making-meaning | ✅ |
+| 9 | Vì sao bò biển khó sống dù được bảo vệ? | Why are manatees struggling to survive if they are protected? | phenomenon | ✅ |
+| 10 | Làm sao đảm bảo bò biển có nước ấm? | What should we do to make sure manatees have access to warm water? | investigation | ✅ |
+| 11 | Làm sao bảo vệ cỏ biển và bò biển khỏi tàu thuyền? | What should we do to make sure manatees have seagrass and protection from boats? | investigation | ✅ |
+| 12 | Làm sao thiết kế giải pháp bảo vệ bò biển và môi trường sống? | How can we design solutions to protect manatees and their habitats? | making-meaning | ✅ |
+| 13 | Làm sao chọn giải pháp bảo vệ động thực vật khi môi trường thay đổi? | How can we choose solutions that protect plants and animals from changes in their environment? | application | ✅ |
 
-**Tiến độ việt hóa: 5/13 (38%)**
+**Tiến độ việt hóa: 13/13 (100%) ✅ HOÀN THÀNH**
 
 ## Ý tưởng khoa học chính
 
