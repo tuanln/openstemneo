@@ -32,9 +32,9 @@
 | 13 | Cấu trúc đệm ảnh hưởng đến lực thế nào? ✅ | How does the structure of a cushioning material affect the peak forces? | 237 |
 | 14 | Dùng ý tưởng khoa học và nhu cầu xã hội để cải tiến thiết kế ✅ | How can we use our science ideas and other societal wants and needs to refine our designs? | 267 |
 | 15 | Đánh giá thiết kế của một kỹ sư khác ✅ | How can we use what we figured out to evaluate another engineer's design? | 283 |
-| 16 | (Tùy chọn) Marketing thiết kế cho nhà đầu tư | (Optional) How can we market our designs to our potential investors? | 293 |
+| 16 | (Tùy chọn) Marketing thiết kế cho nhà đầu tư ✅ | (Optional) How can we market our designs to our potential investors? | 293 |
 
-**Tiến độ việt hóa: 15/16**
+**Tiến độ việt hóa: 16/16** ✅ HOÀN TẤT
 
 ## Ý tưởng khoa học chính
 
