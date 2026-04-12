@@ -15,11 +15,11 @@
 
 | # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Loại | Trạng thái |
 |---|---|---|---|---|
-| 1 | Làm sao có trái cây quanh năm? | How can we get fruits and vegetables all year? | phenomenon | ⬜ |
-| 2 | Trái cây từ cây mà ra như thế nào? | How do we get fruits from plants? | investigation | ⬜ |
-| 3 | Nhu cầu nước của các loại cây ảnh hưởng đến nơi mọc thế nào? | How do the water needs of different plants affect where they can grow well? | investigation | ⬜ |
-| 4 | Nhiệt độ liên quan đến nơi cây trồng ra sao? | How is temperature related to where fruit plants grow? | investigation | ⬜ |
-| 5 | Mẫu nhiệt độ và mưa giúp dự đoán nơi trồng cây thế nào? | How can temperature and precipitation patterns help us predict where to grow plants? | investigation | ⬜ |
+| 1 | Làm sao có trái cây quanh năm? | How can we get fruits and vegetables all year? | phenomenon | ✅ |
+| 2 | Trái cây từ cây mà ra như thế nào? | How do we get fruits from plants? | investigation | ✅ |
+| 3 | Nhu cầu nước của các loại cây ảnh hưởng đến nơi mọc thế nào? | How do the water needs of different plants affect where they can grow well? | investigation | ✅ |
+| 4 | Nhiệt độ liên quan đến nơi cây trồng ra sao? | How is temperature related to where fruit plants grow? | investigation | ✅ |
+| 5 | Mẫu nhiệt độ và mưa giúp dự đoán nơi trồng cây thế nào? | How can temperature and precipitation patterns help us predict where to grow plants? | investigation | ✅ |
 | 6 | Làm sao có táo, cam, chuối trên thực đơn quanh năm? | How can we get apples, oranges, and bananas on the school menu all year? | making-meaning | ⬜ |
 | 7 | Làm sao bảo vệ cây trái trong thời tiết nguy hiểm? | How can we protect fruit plants in hazardous weather? | phenomenon | ⬜ |
 | 8 | Thời tiết nguy hiểm ảnh hưởng đến cây như thế nào? | How can weather hazards affect plants? | investigation | ⬜ |
@@ -28,7 +28,7 @@
 | 11 | Tại sao và làm sao so sánh các giải pháp thiết kế? | How and why do we compare design solutions before making decisions? | investigation | ⬜ |
 | 12 | Làm sao chọn giải pháp bảo vệ cây khỏi thời tiết? | How can we choose solutions that protect plants from weather-related hazards? | application | ⬜ |
 
-**Tiến độ việt hóa: 0/12**
+**Tiến độ việt hóa: 5/12 (42%)**
 
 ## Ý tưởng khoa học chính
 
