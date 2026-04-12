@@ -17,11 +17,11 @@
 
 | # | Tiêu đề tiếng Việt | Tiêu đề gốc EN | Trang |
 |---|---|---|---|
-| 1 | Mua kẹo có thể ảnh hưởng đến đười ươi hoang dã thế nào? | How could buying candy affect orangutan populations in the wild? | 31 |
-| 2 | Có thể thay dầu cọ bằng cái khác không? | Can we replace palm oil with something else? | 57 |
-| 3 | Có thể trồng cọ ở nơi khác để không phá rừng không? | Can we grow oil palm trees somewhere else? | 69 |
-| 4 | Vì sao người ta vẫn chặt rừng dù biết hại động vật? | Why do people cut down tropical rainforests when they know it is harmful? | 81 |
-| 5 | Thay đổi cộng đồng đã ảnh hưởng đến những gì sống ở đó? | How have changes in our community affected what lives here? | 93 |
+| 1 | Mua kẹo có thể ảnh hưởng đến đười ươi hoang dã thế nào? | How could buying candy affect orangutan populations in the wild? | 31 | ✅ |
+| 2 | Có thể thay dầu cọ bằng cái khác không? | Can we replace palm oil with something else? | 57 | ✅ |
+| 3 | Có thể trồng cọ ở nơi khác để không phá rừng không? | Can we grow oil palm trees somewhere else? | 69 | ✅ |
+| 4 | Vì sao người ta vẫn chặt rừng dù biết hại động vật? | Why do people cut down tropical rainforests when they know it is harmful? | 81 | ✅ |
+| 5 | Thay đổi cộng đồng đã ảnh hưởng đến những gì sống ở đó? | How have changes in our community affected what lives here? | 93 | ✅ |
 | 6 | Nếu không bỏ được dầu cọ, làm sao thiết kế trang trại tốt cho cả hai? | If palm oil is not going away, how can we design palm farms to support orangutans and farmers? | 107 |
 | 7 | Bao nhiêu đười ươi sống trong rừng nhiệt đới? | How many orangutans typically live in the tropical rainforest? | 117 |
 | 8 | Vì sao đười ươi cần nhiều rừng đến vậy? | Why do orangutans need so much forest space? | 133 |
@@ -37,7 +37,7 @@
 | 18 | Thiết kế của ta hoạt động ra sao? | How do our designs work for orangutans and people in Indonesia? | 289 |
 | 19 | Cách thông tin với cộng đồng về vấn đề dầu cọ | How can we inform others in our community about the palm oil problem? | 307 |
 
-**Tiến độ việt hóa: 0/19**
+**Tiến độ việt hóa: 5/19**
 
 ## Ý tưởng khoa học chính
 
