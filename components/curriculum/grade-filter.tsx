@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils/cn";
 
 const options = [
   { value: "all", label: "Tất cả" },
+  { value: "0", label: "Mẫu giáo" },
   { value: "3", label: "Lớp 3" },
   { value: "6", label: "Lớp 6" },
   { value: "7", label: "Lớp 7" },

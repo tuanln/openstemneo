@@ -1,5 +1,20 @@
 [
   {
+    "id": "K-1",
+    "gradeLevel": 0,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Năng lượng: Ánh sáng Mặt trời",
+    "titleEn": "Energy: Sunlight",
+    "drivingQuestion": "Tại sao có chỗ nóng, có chỗ mát, và em có thể làm gì?",
+    "phenomenon": "Ở sân trường, có chỗ nóng ran (ngoài nắng) và chỗ mát rượi (dưới bóng cây). Tại sao? Em quan sát, thí nghiệm, rồi thiết kế mái che cho sân bê tông quá nóng.",
+    "standards": ["K-PS3-1", "K-PS3-2", "K-2-ETS1-1", "K-2-ETS1-2", "K-2-ETS1-3"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "☀️",
+    "color": "amber",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/k-1-energy-sunlight/"
+  },
+  {
     "id": "3-1",
     "gradeLevel": 3,
     "subjectArea": "Khoa học tự nhiên",

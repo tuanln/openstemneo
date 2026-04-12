@@ -18,6 +18,7 @@ export default async function UnitsPage({ searchParams }: PageProps) {
   const { grade: gradeParam } = await searchParams;
 
   const grade =
+    gradeParam === "0" ||
     gradeParam === "3" ||
     gradeParam === "6" ||
     gradeParam === "7" ||
@@ -26,10 +27,10 @@ export default async function UnitsPage({ searchParams }: PageProps) {
       : undefined;
 
   const allUnits = await getUnitsWithAvailability();
-  const units = grade
+  const units = grade !== undefined
     ? allUnits.filter((u) => u.gradeLevel === grade)
     : allUnits;
-  const grouped: Record<number, typeof units> = { 3: [], 6: [], 7: [], 8: [] };
+  const grouped: Record<number, typeof units> = { 0: [], 3: [], 6: [], 7: [], 8: [] };
   for (const u of units) grouped[u.gradeLevel]?.push(u);
 
   return (
@@ -60,7 +61,7 @@ export default async function UnitsPage({ searchParams }: PageProps) {
           </div>
         </section>
       ) : (
-        ([3, 6, 7, 8] as const).map((g) => {
+        ([0, 3, 6, 7, 8] as const).map((g) => {
           const unitsInGrade = grouped[g] ?? [];
           if (unitsInGrade.length === 0) return null;
           const readyCount = unitsInGrade.filter(
@@ -69,7 +70,7 @@ export default async function UnitsPage({ searchParams }: PageProps) {
           return (
             <section key={g}>
               <h2 className="mb-4 flex flex-wrap items-baseline gap-3 text-lg font-semibold">
-                <span>Lớp {g}</span>
+                <span>{g === 0 ? "Mẫu giáo" : `Lớp ${g}`}</span>
                 <span className="text-sm font-normal text-muted-foreground">
                   {readyCount}/{unitsInGrade.length} đơn vị có nội dung
                 </span>
