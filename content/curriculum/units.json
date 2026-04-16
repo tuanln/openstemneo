@@ -120,6 +120,36 @@
     "sourceUrl": ""
   },
   {
+    "id": "2-2",
+    "gradeLevel": 2,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Cấu trúc & Tính chất Vật chất",
+    "titleEn": "Structure & Properties of Matter",
+    "drivingQuestion": "Làm sao em thiết kế một món đồ chơi mới?",
+    "phenomenon": "Em quan sát đồ chơi từ khắp thế giới — mỗi cái làm từ vật liệu khác nhau. Em tìm hiểu tính chất vật liệu (cứng, mềm, dẻo, bền...), cách đun nóng/làm lạnh thay đổi vật liệu, rồi thiết kế và xây đồ chơi mới cho các em lớp 1!",
+    "standards": ["2-PS1-1", "2-PS1-2", "2-PS1-3", "2-PS1-4"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "🧱",
+    "color": "orange",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/2-2-matter/"
+  },
+  {
+    "id": "2-3",
+    "gradeLevel": 2,
+    "subjectArea": "Khoa học tự nhiên",
+    "title": "Môi trường sống & Đa dạng sinh học",
+    "titleEn": "Habitats & Biodiversity",
+    "drivingQuestion": "Ai sống ở đâu?",
+    "phenomenon": "Cây và thú sống ở khắp nơi — nhưng mỗi nơi có loại khác nhau! Em nghiên cứu đất và nước ở các công viên quốc gia, vẽ bản đồ, rồi tìm hiểu cây và thú nào sống trên cạn, dưới nước. Cuối cùng em trình bày phát hiện cho cả lớp!",
+    "standards": ["2-LS4-1", "2-ESS2-2", "2-ESS2-3"],
+    "totalLessons": 10,
+    "estimatedWeeks": 4,
+    "icon": "🦎",
+    "color": "emerald",
+    "sourceUrl": "https://www.openscied.org/instructional-materials/2-3-habitats/"
+  },
+  {
     "id": "3-1",
     "gradeLevel": 3,
     "subjectArea": "Khoa học tự nhiên",
