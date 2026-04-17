@@ -28,10 +28,39 @@
 
 ---
 
-<!-- chương 1: sẽ viết sau cùng -->
 ## 1. Tóm lược
 
-*(Viết sau cùng khi đã có toàn bộ chương 2-9)*
+### 1.1 Về tài liệu này
+
+Tài liệu đối chiếu **chuẩn NGSS** (Hoa Kỳ) với **chuẩn GDPT 2018** (Việt Nam) ở cấp khung, dùng cho đội ngũ biên soạn và giáo viên triển khai OpenSciedNEO — bản dịch Việt hoá OpenSciEd K-8 — trong trường phổ thông Việt Nam.
+
+Phạm vi: K-8 (tương ứng TH lớp 1-5 + THCS lớp 6-8 VN), không cover lớp 9 (ngoài scope OpenSciedNEO). Cấu trúc theo **3 chiều NGSS** (DCI, SEP, CCC) đối chiếu với các thành phần tương ứng của GDPT 2018.
+
+### 1.2 Ba kết luận cốt lõi
+
+**Kết luận 1 — DCI ↔ YCCĐ nội dung khớp tốt ở THCS, lệch vừa ở tiểu học, lệch mạnh ở Earth Science.**
+- 4 mạch KHTN THCS (Chất, Năng lượng, Vật sống, Trái Đất) khớp khá tốt với 3 domain NGSS (PS, LS, một phần ESS).
+- **Lệch lớn nhất**: phần lớn Earth Science NGSS (ESS2-3) ở VN thuộc **môn Địa lí**, không thuộc KHTN. Giáo viên cần phối hợp liên tổ.
+- Di truyền + Tiến hoá (LS3-4) ở NGSS dạy từ Middle School; GDPT 2018 dồn toàn bộ vào **lớp 9** → OpenSciedNEO Grade 7-8 các unit này sẽ vượt chuẩn lớp VN tương ứng.
+
+**Kết luận 2 — SEP ↔ Năng lực "Tìm hiểu tự nhiên" khớp khung nhưng GDPT 2018 nhẹ hơn ở 2 điểm.**
+- 7/8 SEP map chính yếu vào thành phần "Tìm hiểu tự nhiên" (bao gồm quy trình 5 bước).
+- **Điểm yếu GDPT 2018**: SEP 2 (Developing Models) và SEP 7 (Argument from Evidence) được nhắc ngắn, không đặt trọng tâm. OpenSciedNEO có văn hoá Scientists Circle và consensus model → đây là "giá trị cộng thêm" rõ ràng, nên giữ khi triển khai ở VN.
+
+**Kết luận 3 — CCC là khoảng trống cấu trúc — cần bù đắp trong hướng dẫn giáo viên.**
+- GDPT 2018 không có tầng tư duy xuyên lĩnh vực tương đương CCC. Chỉ 3/7 CCC (Cause & Effect, Structure & Function, Energy & Matter) được nhắc rõ trong biểu hiện "Nhận thức KHTN".
+- 2 CCC (Scale; Stability & Change) hầu như không có trong GDPT 2018 → cần giáo viên tự nhấn mạnh khi dạy OpenSciedNEO.
+- CCC là "giá trị cộng thêm" lớn nhất của OpenSciedNEO so với giáo án KHTN thuần VN — học sinh rèn tư duy liên ngành ít được quy định chính thức.
+
+### 1.3 Khuyến nghị hành động
+
+1. **Mỗi lesson OpenSciedNEO dùng ở VN cần thêm**: dòng YCCĐ khớp (từ Thông tư 32/2018), dòng phẩm chất hình thành, và tuỳ chọn thay phenomena sang bối cảnh VN.
+2. **Không xoá bỏ** các đặc điểm OpenSciEd: Scientists Circle, consensus model, mô hình hạt — đây là giá trị cộng thêm, không xung đột GDPT 2018.
+3. **Phối hợp liên tổ** KHTN ↔ Địa lí ↔ Tin học ↔ Công nghệ khi triển khai các unit có nội dung chồng.
+4. **Xây ngân hàng đề định kỳ** cho OpenSciedNEO theo format đánh giá VN (Thông tư 22/2021) — ưu tiên cao.
+5. **Thí điểm 1 năm** với 1-2 lớp trước khi nhân rộng.
+
+Chi tiết về từng điểm xem Chương 3-8 bên dưới. Chương 9 là phụ lục tra cứu (glossary, YCCĐ, NGSS code).
 
 ---
 
