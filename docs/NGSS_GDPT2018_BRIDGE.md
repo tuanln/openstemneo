@@ -546,3 +546,47 @@ Nhưng **không có biểu hiện đề cập trực tiếp**: CCC 3 (Scale), CC
 - **2 CCC yếu** (Scale, Stability & Change) — GDPT 2018 hầu như không đề cập. Nếu biên soạn tài liệu VN cho OpenSciedNEO, **ưu tiên viết rõ về 2 CCC này trong hướng dẫn giáo viên**.
 
 Tổng quan: CCC là vùng "giá trị cộng thêm" rõ ràng nhất khi dùng OpenSciedNEO so với giáo án KHTN thuần VN — học sinh rèn tư duy xuyên lĩnh vực hiếm được quy định cụ thể trong chuẩn VN.
+
+## 6. Phẩm chất chủ yếu và văn hoá lớp học STEM
+
+### 6.1 5 phẩm chất chủ yếu GDPT 2018
+
+GDPT 2018 quy định **5 phẩm chất chủ yếu** hình thành qua mọi môn học:
+
+| Phẩm chất | Biểu hiện trong môn KHTN |
+|---|---|
+| **Yêu nước** | Quan tâm đến thiên nhiên quê hương, bảo vệ môi trường bản địa, tự hào về khoa học công nghệ VN. |
+| **Nhân ái** | Tôn trọng sự sống, đa dạng sinh học, lắng nghe quan điểm của bạn trong tranh luận khoa học. |
+| **Chăm chỉ** | Kiên trì thí nghiệm, đọc tài liệu khoa học, ghi chép cẩn thận. |
+| **Trung thực** | Báo cáo dữ liệu thí nghiệm đúng như đã thu (kể cả khi kết quả không như mong đợi); không sao chép. |
+| **Trách nhiệm** | Tuân thủ an toàn phòng thực hành; hoàn thành phần việc trong nhóm; bảo vệ tài sản chung. |
+
+Phẩm chất được đánh giá định tính trong sổ đánh giá định kỳ, KHÔNG cho điểm số trực tiếp.
+
+### 6.2 NGSS và văn hoá lớp học — tương đương không chính thức
+
+NGSS **không quy định phẩm chất** tương đương. Tuy nhiên OpenSciEd (một implementation của NGSS) xây dựng chương trình trên **văn hoá lớp học sensemaking** với các nguyên tắc ngầm:
+
+| Nguyên tắc OpenSciEd | Phẩm chất GDPT 2018 tương ứng |
+|---|---|
+| **Equity & Access** — mọi học sinh được lên tiếng, ý kiến bình đẳng | Nhân ái (tôn trọng) + Trách nhiệm |
+| **Student Agency** — học sinh chủ động đặt câu hỏi, dẫn dắt điều tra | Chăm chỉ + Trách nhiệm |
+| **Sensemaking** — học sinh xây dựng hiểu biết từ bằng chứng, không "chờ" giáo viên cho câu trả lời | Trung thực (với dữ liệu) |
+| **Collaboration** — làm việc nhóm, Scientists Circles | Nhân ái + Trách nhiệm |
+| **Real-world relevance** — neo vào hiện tượng học sinh quan tâm | Yêu nước (khi phenomena địa phương) |
+
+**Quan sát**: văn hoá lớp học OpenSciEd phủ gần đủ 5 phẩm chất, trừ **Yêu nước** — cần giáo viên VN **địa phương hoá hiện tượng** (ví dụ: thay "Storms on the ocean" bằng "Bão sông Hồng") thì mới đạt.
+
+### 6.3 Hàm ý biên soạn
+
+Khi viết tài liệu giáo viên VN cho OpenSciedNEO, mỗi unit nên có mục:
+
+> **Phẩm chất hình thành qua Unit X.Y**:
+> - **Trung thực**: Lesson N có hoạt động ghi dữ liệu thí nghiệm — nhấn mạnh ghi đúng, kể cả khi khác dự đoán.
+> - **Trách nhiệm**: Lesson M có Scientists Circle — phân vai facilitator/recorder/timekeeper.
+> - **Yêu nước**: địa phương hoá phenomena từ "Yellowstone" sang "Vườn quốc gia Cát Tiên".
+
+Cách này:
+1. Giúp giáo viên check box "đã giáo dục phẩm chất" khi làm sổ đánh giá.
+2. Không thay đổi nội dung khoa học của OpenSciEd.
+3. Tạo phiên bản OpenSciedNEO thực sự "Việt hoá" chứ không chỉ dịch.
