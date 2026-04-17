@@ -590,3 +590,67 @@ Cách này:
 1. Giúp giáo viên check box "đã giáo dục phẩm chất" khi làm sổ đánh giá.
 2. Không thay đổi nội dung khoa học của OpenSciEd.
 3. Tạo phiên bản OpenSciedNEO thực sự "Việt hoá" chứ không chỉ dịch.
+
+## 7. Đánh giá — Assessment
+
+### 7.1 NGSS 3D Performance Expectations
+
+NGSS yêu cầu đánh giá **3 chiều đan xen trong một nhiệm vụ**. Một câu hỏi kiểm tra chuẩn NGSS sẽ yêu cầu học sinh:
+- **Dùng kiến thức DCI** (biết)
+- **Thực hiện SEP** (làm)
+- **Dùng lăng kính CCC** (nhìn)
+
+Ví dụ nhiệm vụ đánh giá MS-PS1-4:
+> Cho dữ liệu nhiệt độ và trạng thái của nước trong thí nghiệm đun. Hãy:
+> 1. Vẽ mô hình hạt của nước trước, trong, và sau khi đun. (SEP 2 + DCI PS1.A)
+> 2. Giải thích nguyên nhân thay đổi trạng thái dựa trên mô hình hạt. (SEP 6 + CCC Cause & Effect + DCI PS3.A)
+
+Học sinh đạt khi làm được cả 2 yêu cầu (không tách điểm DCI/SEP/CCC).
+
+**Hình thức đánh giá phổ biến trong NGSS**:
+- **Performance task** (nhiệm vụ thực hành) — 30-60 phút, kéo dài qua nhiều lesson.
+- **Embedded assessment** — gắn vào hoạt động lesson thường ngày.
+- **Portfolio** — thu thập bằng chứng qua nhiều bài.
+
+Ít dùng: trắc nghiệm thuần (vì khó đo SEP và CCC trong 1 câu trắc nghiệm).
+
+### 7.2 Đánh giá năng lực theo GDPT 2018
+
+GDPT 2018 quy định đánh giá theo năng lực, không theo nội dung. Cấu trúc chung:
+
+| Hình thức | Thời điểm | Kết quả |
+|---|---|---|
+| **Đánh giá thường xuyên** | Trong quá trình học | Định tính: nhận xét; hoặc định lượng: điểm |
+| **Đánh giá định kỳ** | Giữa kỳ, cuối kỳ | Điểm số (thang 10) |
+| **Đánh giá phẩm chất** | Cả năm | Mức đánh giá: Tốt / Đạt / Cần cố gắng |
+
+Các văn bản liên quan ngoài Thông tư 32/2018:
+- **Thông tư 26/2020/TT-BGDĐT** — sửa đổi Quy chế đánh giá học sinh THCS, THPT.
+- **Thông tư 22/2021/TT-BGDĐT** — Quy định đánh giá học sinh THCS, THPT (hiện hành).
+- **Thông tư 27/2020/TT-BGDĐT** — Quy định đánh giá học sinh tiểu học.
+
+Ghi chú: hai Thông tư 22 và 27 **chỉ được nhắc tên** trong tài liệu này, không phân tích sâu (xem design §D-4).
+
+**Đặc điểm Đánh giá THCS môn KHTN theo Thông tư 22/2021**:
+- Môn KHTN thuộc nhóm **đánh giá bằng nhận xét kết hợp điểm số**.
+- Cột điểm thường có:
+  - Đánh giá thường xuyên: ít nhất 4 cột (bài quiz, bài thuyết trình, báo cáo thí nghiệm, phiếu học tập).
+  - Đánh giá định kỳ: 2 bài (giữa kỳ + cuối kỳ) mỗi học kỳ.
+- Bài kiểm tra định kỳ: kết hợp trắc nghiệm + tự luận, thời gian 45-90 phút.
+
+### 7.3 Tương thích và xung đột khi đánh giá OpenSciedNEO theo chuẩn VN
+
+**Tương thích mạnh:**
+- Bài **Performance task** của OpenSciedNEO (vẽ mô hình, viết giải thích) → dùng làm "Báo cáo thí nghiệm" hoặc "Phiếu học tập" — một cột đánh giá thường xuyên.
+- **Embedded assessment** tự nhiên ăn vào lớp — giáo viên quan sát, ghi nhận xét, phù hợp "đánh giá thường xuyên bằng nhận xét".
+
+**Xung đột tiềm tàng:**
+
+| Vấn đề | Nguyên nhân | Giải pháp |
+|---|---|---|
+| Bài kiểm tra định kỳ 45' theo VN khó đánh giá đầy đủ 3D của NGSS | Thời gian ngắn, format cố định | Tách: ở định kỳ đánh giá Nhận thức KHTN (DCI); ở thường xuyên đánh giá Tìm hiểu tự nhiên (SEP). Đề định kỳ có 1 câu tự luận "Vẽ mô hình + giải thích". |
+| Portfolio NGSS không dễ ghi vào sổ điểm VN | Sổ điểm yêu cầu số cột cụ thể | Gộp portfolio vào 1 cột đánh giá thường xuyên, giáo viên tự ghi rubric nội bộ. |
+| Trắc nghiệm VN không đo SEP/CCC | Format trắc nghiệm chọn đáp án | Tăng tỉ lệ tự luận lên ≥50% bài định kỳ; thiết kế câu hỏi yêu cầu vẽ sơ đồ/giải thích. |
+| "Không cho điểm phẩm chất" VN vs văn hoá OpenSciEd | GDPT 2018 đánh giá phẩm chất định tính | OK — dùng sổ nhận xét phẩm chất bình thường. Văn hoá OpenSciEd không cần điểm. |
+
+**Khuyến nghị**: biên soạn tài liệu phụ đạo giáo viên VN cho OpenSciedNEO — có **ngân hàng đề định kỳ** tham khảo, mỗi bài giữ 3D NGSS nhưng format theo chuẩn VN (tỉ lệ TN/TL, thang điểm 10).
