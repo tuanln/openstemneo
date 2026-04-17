@@ -128,21 +128,20 @@ Kèm 2 thành phần bổ sung:
 - **AS-3**: CCC không có tương đương GDPT 2018 trực tiếp → cần viết đoạn giải thích lý do + đề xuất hướng bù đắp. *Rủi ro*: độc giả VN có thể không hiểu vì sao "lấy NGSS làm chuẩn".
 - **AS-4**: Người đọc VN có nền KHTN cơ bản nhưng không quen thuật ngữ NGSS (DCI, SEP, CCC, PE). *Giảm thiểu*: glossary + dịch thuật ngữ ngay lần đầu xuất hiện.
 
-## 8. Câu hỏi còn mở (cần user confirm trước khi viết bản chính)
+## 8. Quyết định đã chốt
 
-- **Q-OPEN-1**: Có cần **in ra PDF** cuối cùng không, hay chỉ Markdown trên GitHub là đủ?
-- **Q-OPEN-2**: Lưu tài liệu trong `docs/frameworks/` (subfolder mới) hay cùng cấp với `PHASE_1_REPORT.md`?
-- **Q-OPEN-3**: Có cần phiên bản **tiếng Anh** song song không? (OpenSciEd có thể đọc để feedback)
-- **Q-OPEN-4**: Có nên tích hợp **Thông tư 22/2021** (đánh giá HS THCS) vào chương 7 không, hay chỉ nhắc tên?
+- **D-1**: Output chỉ **Markdown** (không cần PDF).
+- **D-2**: Lưu tại `docs/NGSS_GDPT2018_BRIDGE.md` — cùng cấp với `PHASE_1_REPORT.md`, không tạo subfolder.
+- **D-3**: Chỉ viết **tiếng Việt**, không bản tiếng Anh song song.
+- **D-4**: **Chỉ nhắc tên** Thông tư 22/2021 trong chương 7, không phân tích chi tiết.
 
 ---
 
 ## Kết cấu kiểm tra (checklist trước khi bắt đầu viết)
 
-- [ ] User review design spec này
-- [ ] Xác nhận các Q-OPEN ở §8
+- [x] User review design spec này — ✅ 2026-04-17
+- [x] Chốt các quyết định ở §8 — ✅ 2026-04-17
 - [ ] Copy `/tmp/ctkhtn.txt` vào `docs/source-pdfs/gdpt-2018/ctkhtn-6-9.txt` (gitignored)
-- [ ] Tạo folder `docs/frameworks/` (nếu chọn subfolder)
 - [ ] Viết writing-plans spec chi tiết
 
 ---
