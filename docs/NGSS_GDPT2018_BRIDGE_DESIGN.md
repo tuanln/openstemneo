@@ -141,8 +141,8 @@ Kèm 2 thành phần bổ sung:
 
 - [x] User review design spec này — ✅ 2026-04-17
 - [x] Chốt các quyết định ở §8 — ✅ 2026-04-17
-- [ ] Copy `/tmp/ctkhtn.txt` vào `docs/source-pdfs/gdpt-2018/ctkhtn-6-9.txt` (gitignored)
-- [ ] Viết writing-plans spec chi tiết
+- [x] Copy `/tmp/ctkhtn.txt` vào `docs/source-pdfs/gdpt-2018/ctkhtn-6-9.txt` (gitignored) — ✅ 2026-04-17
+- [x] Viết writing-plans spec chi tiết — ✅ 2026-04-17 (content đã viết đầy đủ, 11,788 wc-w / ~18,000-22,000 từ VN)
 
 ---
 

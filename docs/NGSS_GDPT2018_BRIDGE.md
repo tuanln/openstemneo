@@ -19,12 +19,12 @@
 5. [Chiều 3 — CCC ↔ Tích hợp liên môn và năng lực chung](#5-chiều-3--ccc--tích-hợp-liên-môn-và-năng-lực-chung)
 6. [Phẩm chất chủ yếu và văn hoá lớp học STEM](#6-phẩm-chất-chủ-yếu-và-văn-hoá-lớp-học-stem)
 7. [Đánh giá — Assessment](#7-đánh-giá--assessment)
-8. [Hàm ý triển khai OpenSciedNEO](#8-hàm-ý-triển-khai-openscienneo)
+8. [Hàm ý triển khai OpenSciedNEO](#8-hàm-ý-triển-khai-opensciedneo)
 9. [Phụ lục](#9-phụ-lục)
-   - 9.A [Glossary thuật ngữ NGSS ↔ GDPT 2018](#9a-glossary-thuật-ngữ)
-   - 9.B [Trích YCCĐ đầy đủ lớp 6, 7, 8 môn KHTN](#9b-trích-yccđ)
-   - 9.C [NGSS Performance Expectation code reference](#9c-ngss-pe-code-reference)
-   - 9.D [Tài liệu tham khảo](#9d-tham-khảo)
+   - 9.A [Glossary thuật ngữ NGSS ↔ GDPT 2018](#9a-glossary-thuật-ngữ-ngss--gdpt-2018)
+   - 9.B [Trích YCCĐ đầy đủ lớp 6, 7, 8 môn KHTN](#9b-trích-yccđ-đầy-đủ-lớp-6-7-8-môn-khtn)
+   - 9.C [NGSS Performance Expectation code reference](#9c-ngss-performance-expectation-code-reference)
+   - 9.D [Tài liệu tham khảo](#9d-tài-liệu-tham-khảo)
 
 ---
 
