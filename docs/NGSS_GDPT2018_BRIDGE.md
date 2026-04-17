@@ -345,3 +345,121 @@ YCCĐ liên quan (trích Thông tư 32/2018):
 - **Lưu ý đánh giá**: đề kiểm tra trên lớp VN nên hỏi cả "trình bày quá trình" (YCCĐ) và "vẽ mô hình hạt" (NGSS); HS đạt "vẽ mô hình hạt" coi như đạt mức cao của YCCĐ "giải thích".
 
 Chương 4 sẽ phân tích sâu hơn về đan xen SEP với năng lực đặc thù KHTN.
+
+---
+
+## 4. Chiều 2 — SEP ↔ Năng lực đặc thù KHTN
+
+### 4.1 Science and Engineering Practices (SEP) — 8 practices NGSS
+
+NGSS định nghĩa 8 practices học sinh thực hiện trong mọi bài học. Đây là thứ "học sinh **làm**" — khác với DCI là thứ học sinh **biết**.
+
+| # | Tên tiếng Anh | Tiếng Việt đề xuất | Mô tả ngắn |
+|---|---|---|---|
+| 1 | Asking Questions and Defining Problems | Đặt câu hỏi và xác định vấn đề | Hỏi câu hỏi có thể trả lời bằng khoa học; xác định phạm vi bài toán kĩ thuật. |
+| 2 | Developing and Using Models | Xây dựng và sử dụng mô hình | Vẽ sơ đồ, xây mô hình vật lí/toán để giải thích hiện tượng. |
+| 3 | Planning and Carrying Out Investigations | Lập kế hoạch và tiến hành điều tra | Thiết kế thí nghiệm, thu dữ liệu trong điều kiện kiểm soát. |
+| 4 | Analyzing and Interpreting Data | Phân tích và diễn giải dữ liệu | Lập bảng, vẽ biểu đồ, tìm xu hướng, đánh giá sai số. |
+| 5 | Using Mathematics and Computational Thinking | Dùng toán học và tư duy tính toán | Biểu diễn bằng công thức, tính toán, lập trình đơn giản. |
+| 6 | Constructing Explanations and Designing Solutions | Kiến tạo giải thích và thiết kế giải pháp | Viết lời giải thích có bằng chứng; thiết kế sản phẩm kĩ thuật. |
+| 7 | Engaging in Argument from Evidence | Tham gia lập luận từ bằng chứng | Tranh luận dựa trên dữ liệu; phản biện ý kiến của bạn. |
+| 8 | Obtaining, Evaluating, and Communicating Information | Thu thập, đánh giá và truyền đạt thông tin | Đọc tài liệu khoa học; viết báo cáo; trình bày cho bạn học. |
+
+**Đặc điểm SEP quan trọng:**
+1. **Gradient K-12**: mỗi practice có "progression" theo grade band. Ví dụ practice 2 (Models):
+   - K-2: vẽ tranh diễn tả hiện tượng.
+   - 3-5: xây mô hình 2D/3D, so sánh với hiện tượng thật.
+   - 6-8: xây mô hình giải thích cơ chế ở mức vi mô/vĩ mô.
+   - 9-12: mô hình toán học có khả năng dự đoán định lượng.
+2. **Không phải rời rạc**: một bài học OpenSciEd thường dùng 3-4 practices đồng thời.
+3. **Practice 1 và 7** là core của văn hoá lớp học sensemaking — học sinh đặt câu hỏi thật và tranh luận thật, không chỉ trả lời câu hỏi giáo viên đã có đáp án.
+
+### 4.2 Ba thành phần năng lực đặc thù KHTN (GDPT 2018)
+
+GDPT 2018 mô tả năng lực KHTN gồm **3 thành phần**, mỗi thành phần có danh sách **biểu hiện cụ thể** (trích Thông tư 32/2018 mục IV.2):
+
+#### 4.2.1 Nhận thức khoa học tự nhiên
+
+Biểu hiện cốt lõi (trích nguyên văn, rút gọn):
+- Nhận biết và nêu được tên các sự vật, hiện tượng, khái niệm, quy luật, quá trình của tự nhiên.
+- Trình bày được các sự vật, hiện tượng; vai trò của các sự vật, hiện tượng và các quá trình tự nhiên bằng các hình thức biểu đạt như ngôn ngữ nói, viết, công thức, sơ đồ, biểu đồ,….
+- So sánh, phân loại, lựa chọn được các sự vật, hiện tượng, quá trình tự nhiên theo các tiêu chí khác nhau.
+- Phân tích được các đặc điểm của một sự vật, hiện tượng, quá trình của tự nhiên theo logic nhất định.
+- Giải thích được mối quan hệ giữa các sự vật và hiện tượng (quan hệ nguyên nhân - kết quả, cấu tạo - chức năng, ...).
+
+**Đây là thành phần gần nhất với "hiểu biết về DCI" của NGSS.**
+
+#### 4.2.2 Tìm hiểu tự nhiên
+
+Biểu hiện có cấu trúc 5 bước rõ ràng (trích Thông tư 32/2018):
+
+1. **Đề xuất vấn đề, đặt câu hỏi cho vấn đề**
+2. **Đưa ra phán đoán và xây dựng giả thuyết**
+3. **Lập kế hoạch thực hiện**
+4. **Thực hiện kế hoạch** (thu thập, xử lí dữ liệu, so sánh với giả thuyết)
+5. **Viết, trình bày báo cáo và thảo luận**
+6. **Ra quyết định và đề xuất ý kiến**
+
+**Đây là thành phần gần nhất với SEP của NGSS** — quy trình tìm hiểu khoa học.
+
+#### 4.2.3 Vận dụng kiến thức, kĩ năng đã học
+
+Biểu hiện cốt lõi:
+- Nhận ra, giải thích được vấn đề thực tiễn dựa trên kiến thức khoa học tự nhiên.
+- Dựa trên hiểu biết và các cứ liệu điều tra, nêu được các giải pháp và thực hiện được một số giải pháp để bảo vệ tự nhiên; thích ứng với biến đổi khí hậu; có hành vi, thái độ phù hợp với yêu cầu phát triển bền vững.
+
+**Đây là thành phần gần nhất với ETS (Engineering) + CCC (Cause & Effect) trong bối cảnh xã hội** — vận dụng khoa học giải quyết vấn đề đời sống.
+
+### 4.3 Bảng đối chiếu 8 SEP ↔ 3 thành phần năng lực đặc thù KHTN
+
+Mỗi SEP được map về một hoặc nhiều biểu hiện cụ thể của năng lực KHTN. Không có ánh xạ một-một; nhiều SEP lan sang 2-3 thành phần.
+
+| SEP (NGSS) | Thành phần NL KHTN chính | Biểu hiện khớp nhất (trích Thông tư 32/2018) |
+|---|---|---|
+| **1. Asking Questions / Defining Problems** | Tìm hiểu tự nhiên | "Đề xuất vấn đề, đặt câu hỏi cho vấn đề" — Nhận ra và đặt được câu hỏi liên quan đến vấn đề. |
+| **2. Developing and Using Models** | Nhận thức KHTN + Tìm hiểu tự nhiên | "Trình bày được các sự vật, hiện tượng… bằng các hình thức biểu đạt như ngôn ngữ nói, viết, công thức, sơ đồ, biểu đồ,…" + "Sử dụng được ngôn ngữ, hình vẽ, sơ đồ, biểu bảng để biểu đạt quá trình và kết quả tìm hiểu". |
+| **3. Planning and Carrying Out Investigations** | Tìm hiểu tự nhiên | "Lập kế hoạch thực hiện" + "Thực hiện kế hoạch" — Xây dựng khung logic, lựa chọn phương pháp, thu thập dữ liệu. |
+| **4. Analyzing and Interpreting Data** | Tìm hiểu tự nhiên | "Đánh giá được kết quả dựa trên phân tích, xử lí các dữ liệu bằng các tham số thống kê đơn giản". |
+| **5. Using Mathematics and Computational Thinking** | Nhận thức KHTN + Tìm hiểu tự nhiên | "Trình bày được… công thức" + "Đánh giá được kết quả dựa trên… các tham số thống kê đơn giản". |
+| **6. Constructing Explanations / Designing Solutions** | Nhận thức KHTN + Vận dụng | "Giải thích được mối quan hệ giữa các sự vật và hiện tượng" + "Dựa trên hiểu biết và các cứ liệu điều tra, nêu được các giải pháp… để bảo vệ tự nhiên". |
+| **7. Engaging in Argument from Evidence** | Tìm hiểu tự nhiên | "Hợp tác được với đối tác bằng thái độ lắng nghe tích cực và tôn trọng quan điểm, ý kiến đánh giá do người khác đưa ra để tiếp thu tích cực và giải trình, phản biện, bảo vệ kết quả tìm hiểu một cách thuyết phục". |
+| **8. Obtaining, Evaluating, Communicating Information** | Tìm hiểu tự nhiên | "Viết được báo cáo sau quá trình tìm hiểu" + "Tìm được từ khoá, sử dụng được thuật ngữ khoa học, kết nối được thông tin theo logic có ý nghĩa". |
+
+**Quan sát quan trọng:**
+
+1. **7/8 SEP map chính yếu sang "Tìm hiểu tự nhiên"** — thành phần này rộng hơn hẳn hai thành phần còn lại. Một giáo viên dạy theo GDPT 2018 cần hiểu "Tìm hiểu tự nhiên" không chỉ là "thí nghiệm" mà là **toàn bộ quy trình tìm hiểu có cấu trúc**.
+2. **SEP 2 (Models)** là điểm GDPT 2018 có thể "nhẹ" hơn NGSS. Biểu hiện GDPT 2018 chỉ nói đến "biểu đạt bằng sơ đồ, hình vẽ", không yêu cầu "mô hình có khả năng dự đoán". OpenSciedNEO đòi hỏi mô hình dự đoán — đây là "giá trị cộng thêm" so với chuẩn VN.
+3. **SEP 7 (Argument)** map sang đoạn ngắn "phản biện, bảo vệ kết quả tìm hiểu" trong GDPT 2018 — biểu hiện này yếu hơn rõ so với NGSS. OpenSciedNEO có hoạt động "Scientists Circle" đặc trưng để học sinh tranh luận; khi dạy ở VN nên giữ vì rèn được năng lực hiếm được quy định đầy đủ.
+4. **SEP 5 (Math/Computing)** chỉ được GDPT 2018 nhắc qua "tham số thống kê đơn giản" và "công thức". Khi OpenSciEd dùng mô hình toán phức (hồi quy tuyến tính, đồ thị hàm) giáo viên có thể giảm độ phức tạp mà không vi phạm chuẩn.
+
+### 4.4 Ví dụ cụ thể: Lesson "Vì sao khinh khí cầu bay?" (Grade 6 Unit 1 Lesson 3)
+
+Đây là lesson thực của OpenSciedNEO Grade 6 Unit 1 (One-Way Mirror) — phân tích SEP sử dụng và map sang biểu hiện năng lực KHTN.
+
+**Tóm tắt lesson**:
+Học sinh xem video khinh khí cầu bay lên khi đốt lửa bên dưới. Giáo viên đặt câu hỏi neo: "Điều gì xảy ra với không khí trong quả bóng khi đốt lửa?"
+
+**Các hoạt động và SEP tương ứng:**
+
+| Hoạt động | SEP | Biểu hiện NL KHTN đạt được |
+|---|---|---|
+| HS đặt câu hỏi về hiện tượng (nhóm) | SEP 1 Asking Questions | "Nhận ra và đặt được câu hỏi liên quan đến vấn đề" (Tìm hiểu tự nhiên bước 1) |
+| HS vẽ sơ đồ hạt bên trong bóng trước/sau khi đốt | SEP 2 Models | "Trình bày được… bằng hình vẽ, sơ đồ" (Nhận thức KHTN) |
+| HS thảo luận nhóm: mô hình của ai giải thích tốt hơn? | SEP 7 Argument | "Lắng nghe tích cực và tôn trọng quan điểm" + "phản biện, bảo vệ kết quả" (Tìm hiểu tự nhiên bước 6) |
+| HS đề xuất thí nghiệm kiểm chứng | SEP 1 + 3 | "Đề xuất vấn đề" + "Lập kế hoạch thực hiện" (Tìm hiểu tự nhiên bước 1, 3) |
+| Cả lớp đồng thuận câu hỏi nghiên cứu: "Nhiệt làm thay đổi gì trong chuyển động hạt?" | SEP 6 Constructing Explanations | "Xây dựng và phát biểu được giả thuyết cần tìm hiểu" (Tìm hiểu tự nhiên bước 2) |
+
+**Đối sánh YCCĐ cụ thể lớp 6**:
+
+Lesson này không map 1-1 với YCCĐ nào của KHTN lớp 6 (vì chủ đề "khí áp, khí động học" không có trong Chương trình 6), nhưng phù hợp với:
+- Mạch "Chất và sự biến đổi của chất" — YCCĐ "Nêu được khái niệm về sự bay hơi, ngưng tụ" (khi mở rộng giải thích khí nóng giãn nở).
+- Mạch "Năng lượng và sự biến đổi" — YCCĐ "Nêu được sự truyền năng lượng từ vật nóng sang vật lạnh".
+
+**Hướng dẫn giáo viên**:
+- Lesson này **vượt chuẩn KHTN 6** ở chỗ yêu cầu "mô hình hạt" (thuộc Lớp 7 VN).
+- **Cách xử lý**: dùng lesson ở mức "hoạt động khám phá" đầu năm lớp 6, mô hình hạt dạy ở mức định tính (hạt chuyển động nhanh hơn khi nóng) — không yêu cầu định lượng.
+- Khi học sinh lên Lớp 7 học chủ đề "Nguyên tử, phân tử" có thể quay lại hiện tượng này làm ví dụ minh hoạ.
+
+Phân tích tương tự có thể áp dụng cho mọi lesson OpenSciedNEO. Tóm lại:
+- **Biên soạn bám SEP của OpenSciEd**: cho tiết học nào cần đặc biệt rèn SEP nào → viết rõ trong hướng dẫn giáo viên.
+- **Đánh giá theo thành phần năng lực KHTN**: giáo viên VN đánh giá học sinh theo Thông tư 22/2021 (đánh giá THCS), lập cột đánh giá theo 3 thành phần (Nhận thức / Tìm hiểu / Vận dụng). Các hoạt động SEP ở đâu sẽ đổ vào cột nào → bảng §4.3 chỉ rõ.
