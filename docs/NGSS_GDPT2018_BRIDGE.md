@@ -463,3 +463,86 @@ Lesson này không map 1-1 với YCCĐ nào của KHTN lớp 6 (vì chủ đề 
 Phân tích tương tự có thể áp dụng cho mọi lesson OpenSciedNEO. Tóm lại:
 - **Biên soạn bám SEP của OpenSciEd**: cho tiết học nào cần đặc biệt rèn SEP nào → viết rõ trong hướng dẫn giáo viên.
 - **Đánh giá theo thành phần năng lực KHTN**: giáo viên VN đánh giá học sinh theo Thông tư 22/2021 (đánh giá THCS), lập cột đánh giá theo 3 thành phần (Nhận thức / Tìm hiểu / Vận dụng). Các hoạt động SEP ở đâu sẽ đổ vào cột nào → bảng §4.3 chỉ rõ.
+
+## 5. Chiều 3 — CCC ↔ Tích hợp liên môn và năng lực chung
+
+### 5.1 Crosscutting Concepts (CCC) — 7 lăng kính tư duy của NGSS
+
+CCC là chiều khó "dịch" nhất vì GDPT 2018 không có tương đương trực tiếp. CCC là **7 lăng kính tư duy** mà học sinh dùng để nhìn hiện tượng — nó xuyên qua mọi lĩnh vực khoa học.
+
+| # | Tên | Tiếng Việt | Câu hỏi lăng kính |
+|---|---|---|---|
+| 1 | Patterns | Mô thức/Quy luật | "Ta thấy mô thức nào lặp lại?" |
+| 2 | Cause and Effect | Nguyên nhân - Kết quả | "Điều gì gây ra điều gì?" |
+| 3 | Scale, Proportion, and Quantity | Tỉ lệ, quy mô, số lượng | "Ở quy mô nào hiện tượng này quan trọng?" |
+| 4 | Systems and System Models | Hệ thống và mô hình hệ thống | "Thành phần nào, tương tác nào, ranh giới ở đâu?" |
+| 5 | Energy and Matter | Năng lượng và Vật chất | "Năng lượng và vật chất đi đâu trong hệ?" |
+| 6 | Structure and Function | Cấu trúc và Chức năng | "Cấu trúc này làm được gì? Vì sao?" |
+| 7 | Stability and Change | Cân bằng và Biến đổi | "Cái gì ổn định? Cái gì thay đổi? Vì sao?" |
+
+**Điểm đặc trưng của CCC:**
+- CCC không dạy như bài riêng — nó là **lăng kính học sinh đeo suốt năm học**.
+- Mỗi PE của NGSS gắn với 1-2 CCC. Ví dụ MS-PS1-4 có CCC Cause and Effect.
+- CCC tạo **tính nhất quán tư duy** giữa các lĩnh vực — khi học Sinh học nói "cấu trúc quyết định chức năng" thì khi sang Vật lí nói "cấu trúc hạt quyết định tính chất vĩ mô" học sinh nhận ra đây là cùng lăng kính.
+
+### 5.2 Khoảng trống CCC trong GDPT 2018 — và cách bù đắp
+
+GDPT 2018 **không có tầng CCC tương đương**. Đây là khác biệt cấu trúc lớn nhất giữa hai khung.
+
+**Thứ gần nhất trong GDPT 2018**:
+
+#### 5.2.1 Năng lực chung (cho mọi môn)
+
+GDPT 2018 quy định 3 năng lực chung áp dụng cho mọi môn học:
+
+| Năng lực chung | Gần với CCC nào | Ghi chú |
+|---|---|---|
+| **Tự chủ và tự học** | Không gần CCC nào rõ | Là năng lực học tập, không phải lăng kính khoa học |
+| **Giao tiếp và hợp tác** | Không gần CCC nào | Năng lực xã hội |
+| **Giải quyết vấn đề và sáng tạo** | CCC 2 (Cause & Effect) + CCC 7 (Stability & Change) | Bao gồm xác định vấn đề, phân tích nguyên nhân, đề xuất giải pháp |
+
+Năng lực chung rộng hơn CCC (bao cả giao tiếp, hợp tác) nhưng cũng "nông" hơn ở khía cạnh tư duy khoa học.
+
+#### 5.2.2 Biểu hiện "Nhận thức KHTN" có hơi hướm CCC
+
+Một số biểu hiện thuộc thành phần "Nhận thức KHTN" (§4.2.1) gần với CCC:
+
+| Biểu hiện (trích Thông tư 32/2018) | CCC tương ứng |
+|---|---|
+| "Giải thích được mối quan hệ giữa các sự vật và hiện tượng (quan hệ nguyên nhân - kết quả, cấu tạo - chức năng, ...)" | CCC 2 Cause & Effect + CCC 6 Structure & Function |
+| "So sánh, phân loại, lựa chọn được các sự vật, hiện tượng, quá trình tự nhiên theo các tiêu chí khác nhau" | CCC 1 Patterns (phần nào) |
+| "Phân tích được các đặc điểm của một sự vật, hiện tượng, quá trình của tự nhiên theo logic nhất định" | CCC 4 Systems (phần nào) |
+
+Nhưng **không có biểu hiện đề cập trực tiếp**: CCC 3 (Scale), CCC 5 (Energy & Matter), CCC 7 (Stability & Change).
+
+#### 5.2.3 Bù đắp khi triển khai OpenSciedNEO
+
+**Khuyến nghị thực tiễn**:
+
+1. **Không ép CCC vào YCCĐ**: CCC là tư duy, không phải chuẩn đánh giá. Không cần ra đề "trình bày mô thức của...". Thay vào đó, **dùng câu hỏi CCC trong quá trình dạy** ("Em thấy có mô thức nào lặp lại?", "Cái gì gây ra cái gì?").
+
+2. **Gán CCC vào mạch tích hợp**: GDPT 2018 đặt nặng "tích hợp liên môn". CCC là công cụ tự nhiên để tích hợp:
+   - **CCC 4 Systems** → tích hợp KHTN - Địa lí (hệ sinh thái - hệ Trái Đất).
+   - **CCC 5 Energy and Matter** → tích hợp Vật lí - Hoá - Sinh (năng lượng đi qua chuỗi thức ăn).
+   - **CCC 1 Patterns** → tích hợp KHTN - Toán (biểu đồ, hàm số).
+
+3. **Viết vào kế hoạch bài dạy của giáo viên**: khi biên soạn tài liệu giáo viên VN cho OpenSciedNEO, mỗi lesson nên có dòng "**Lăng kính tư duy nổi bật**: CCC X" để giáo viên ý thức.
+
+### 5.3 Bảng đối chiếu 7 CCC ↔ tương ứng GDPT 2018
+
+| CCC | Tương ứng gần nhất trong GDPT 2018 | Mức độ | Cách bù đắp trong OpenSciedNEO-VN |
+|---|---|---|---|
+| **1. Patterns** | "So sánh, phân loại, lựa chọn" (biểu hiện NT KHTN) | Trung bình | Dùng câu hỏi "Em thấy gì lặp lại?" trong mọi lesson. |
+| **2. Cause and Effect** | "Giải thích được mối quan hệ nguyên nhân - kết quả" (biểu hiện NT KHTN) | Mạnh | GDPT 2018 đã nhắc rõ. Dạy như bình thường. |
+| **3. Scale, Proportion, Quantity** | (Không có biểu hiện riêng) | Yếu | Liên hệ môn Toán. Trong KHTN lớp 6-9 không bắt buộc. Giáo viên khuyến khích khi dạy hạt (nm), vũ trụ (năm ánh sáng). |
+| **4. Systems and System Models** | "Phân tích được đặc điểm theo logic nhất định" + mạch tích hợp | Trung bình | Dạy tường minh khi lesson nói về hệ sinh thái, hệ tuần hoàn. Vẽ sơ đồ hệ thống là SEP 2 + CCC 4. |
+| **5. Energy and Matter** | Mạch "Năng lượng" + "Chất và sự biến đổi của chất" (nội dung) | Mạnh ở cấp nội dung, không có ở cấp tư duy | Khi học chuỗi thức ăn, quang hợp — chỉ rõ cho học sinh đây là "theo dõi năng lượng và vật chất đi qua hệ". |
+| **6. Structure and Function** | "Giải thích được mối quan hệ cấu tạo - chức năng" (biểu hiện NT KHTN) | Mạnh | GDPT 2018 đã nhắc. Dạy bình thường. |
+| **7. Stability and Change** | (Không có biểu hiện riêng) | Yếu | Đặc biệt quan trọng cho lesson khí hậu, hệ sinh thái. Giáo viên cần thêm câu hỏi "Cái gì giữ ổn định? Cái gì thay đổi?". |
+
+**Quan sát**:
+- **3 CCC mạnh** (Cause & Effect, Structure & Function, Energy & Matter) — GDPT 2018 đã đề cập đủ để dạy.
+- **2 CCC trung bình** (Patterns, Systems) — có nhắc nhưng không làm trọng tâm, cần giáo viên tự nhấn.
+- **2 CCC yếu** (Scale, Stability & Change) — GDPT 2018 hầu như không đề cập. Nếu biên soạn tài liệu VN cho OpenSciedNEO, **ưu tiên viết rõ về 2 CCC này trong hướng dẫn giáo viên**.
+
+Tổng quan: CCC là vùng "giá trị cộng thêm" rõ ràng nhất khi dùng OpenSciedNEO so với giáo án KHTN thuần VN — học sinh rèn tư duy xuyên lĩnh vực hiếm được quy định cụ thể trong chuẩn VN.
