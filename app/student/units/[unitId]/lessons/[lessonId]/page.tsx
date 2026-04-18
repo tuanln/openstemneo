@@ -1,6 +1,6 @@
-import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ArrowLeft, ArrowRight, Clock, ExternalLink } from "lucide-react";
+import { notFound } from "next/navigation";
+import { ArrowLeft, ArrowRight, Clock, ExternalLink, LogIn } from "lucide-react";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
 import {
@@ -14,10 +14,17 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils/cn";
 import { unitAccent } from "@/components/curriculum/unit-colors";
+import { createClient } from "@/lib/supabase/server";
+import { getActivityBySlug, isActivityCompleted } from "@/lib/db/events";
+import { ActivityStatusToggle } from "@/components/phase2/student/activity-status-toggle";
 
 interface PageProps {
   params: Promise<{ unitId: string; lessonId: string }>;
 }
+
+// Dynamic rendering — trang đọc cookies cho progress tracking
+// (Trước đây SSG qua generateStaticParams, tạm bỏ để thêm auth-aware UI)
+export const dynamic = 'force-dynamic';
 
 export async function generateStaticParams() {
   return await getAllLessonParams();
@@ -48,6 +55,18 @@ export default async function LessonPage({ params }: PageProps) {
   const prev = idx > 0 ? allLessons[idx - 1] : null;
   const next = idx >= 0 && idx < allLessons.length - 1 ? allLessons[idx + 1] : null;
   const available = frontmatter.available ?? true;
+
+  // Phase 2 — progress tracking (chỉ active khi user logged in)
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  const lessonNumMatch = lessonId.match(/(\d+)/);
+  const lessonNum = lessonNumMatch ? parseInt(lessonNumMatch[1], 10) : null;
+  const activitySlug = lessonNum != null ? `${unitId}-L${lessonNum}` : null;
+  const activity = activitySlug ? await getActivityBySlug(activitySlug) : null;
+  const completed = user && activity ? await isActivityCompleted(activity.id) : false;
 
   return (
     <article className="space-y-8">
@@ -100,6 +119,27 @@ export default async function LessonPage({ params }: PageProps) {
           }}
         />
       </div>
+
+      {/* Progress tracking (Phase 2) */}
+      {user && activity ? (
+        <ActivityStatusToggle
+          activityId={activity.id}
+          sourceRef={activity.source_ref ?? undefined}
+          initialCompleted={completed}
+        />
+      ) : !user && activity ? (
+        <div className="mt-8 flex flex-col items-center gap-3 border-t pt-6">
+          <p className="text-sm text-muted-foreground">
+            Đăng nhập để lưu tiến độ + rèn skill qua từng bài.
+          </p>
+          <Button asChild size="sm" variant="outline">
+            <Link href={`/login?next=/student/units/${unitId}/lessons/${lessonId}`}>
+              <LogIn className="h-4 w-4" />
+              Đăng nhập
+            </Link>
+          </Button>
+        </div>
+      ) : null}
 
       {/* Source attribution */}
       {available && frontmatter.sourceHandoutUrl && (
