@@ -36,4 +36,27 @@
 
 ## Entries
 
-*(Chưa có — thêm khi có issue.)*
+### Task P2-A11 — Seed activities từ MDX
+**Status**: DONE (fixed lần 2)
+**Date**: 2026-04-18
+**Model**: controller inline (không subagent)
+
+**Issue**:
+Lần chạy đầu fail 488 lessons với 2 lỗi:
+1. `invalid input syntax for type integer: "50 phút"` — 488 errors
+2. `No course for grade-K, skipping` — mất toàn bộ lớp K (30 lessons)
+
+**Root cause**:
+1. Frontmatter MDX của nhiều lesson dùng `estimatedMinutes: "50 phút"` (string có chữ "phút") thay vì số 50. Direct cast → Postgres fail vì column là INT.
+2. Folder tên `grade-K` (chữ K hoa) nhưng seed SQL tạo course với slug `grade-k` (chữ k thường). `eq('slug', 'grade-K')` → không match.
+
+**Fix**:
+1. Thêm hàm `parseMinutes(val)` regex lấy chuỗi số đầu tiên, fallback 45.
+2. Lowercase grade slug trước khi query: `.eq('slug', gradeSlug.toLowerCase())`.
+Commit SHA: (sẽ điền khi commit).
+Kết quả lần 2: 518 activities, 0 errors.
+
+**Lesson learned**:
+- **Type coercion explicit hơn implicit**: khi migrate từ frontmatter (loose schema) sang DB (strict schema), viết parser riêng cho mỗi field có thể là string/number. Đừng tin `fm.field ?? default` — có thể fail nếu type sai.
+- **Case normalization sớm**: quy tắc chung trong migration — lowercase slugs khi insert/query. Filesystem có thể case-sensitive (Linux) hoặc không (macOS) nên folder tên hoa/thường không đáng tin.
+- **Để plan quy định verification query sau migration**: phát hiện sớm hơn "0 rows migrated" thay vì để end-of-script.
