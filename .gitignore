@@ -50,3 +50,7 @@ content/source/links.json
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
+
+# Supabase
+supabase/.branches
+supabase/.temp
