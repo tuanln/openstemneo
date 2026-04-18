@@ -62,10 +62,8 @@ export default async function LessonPage({ params }: PageProps) {
     data: { user },
   } = await supabase.auth.getUser();
 
-  const lessonNumMatch = lessonId.match(/(\d+)/);
-  const lessonNum = lessonNumMatch ? parseInt(lessonNumMatch[1], 10) : null;
-  const activitySlug = lessonNum != null ? `${unitId}-L${lessonNum}` : null;
-  const activity = activitySlug ? await getActivityBySlug(activitySlug) : null;
+  // lessonId đã là full slug ("6-1-L1") — khớp activity.slug trực tiếp
+  const activity = await getActivityBySlug(lessonId);
   const completed = user && activity ? await isActivityCompleted(activity.id) : false;
 
   return (

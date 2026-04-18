@@ -17,11 +17,11 @@ function pickActivity(a: unknown): ActivityRow | null {
 }
 
 function activityToPath(a: ActivityRow): string {
-  // activity.slug format "6-1-L3" → /student/units/6-1/lessons/03
-  const match = a.slug.match(/^(.+)-L(\d+)$/);
+  // activity.slug format "6-1-L3" — route expects unitId + full slug as lessonId
+  const match = a.slug.match(/^(.+)-L\d+$/);
   if (!match) return '#';
-  const [, unitSlug, lessonNum] = match;
-  return `/student/units/${unitSlug}/lessons/${lessonNum.padStart(2, '0')}`;
+  const unitSlug = match[1];
+  return `/student/units/${unitSlug}/lessons/${a.slug}`;
 }
 
 export async function ContinueLearning() {
