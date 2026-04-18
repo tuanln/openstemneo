@@ -36,6 +36,23 @@
 
 ## Entries
 
+### Task P2-B12/13 — Next.js 16 rename middleware → proxy
+**Status**: DONE (spec adjustment)
+**Date**: 2026-04-18
+
+**Issue**:
+Plan spec §B13 bảo tạo `middleware.ts` ở root. Nhưng Next.js 16 đã **rename** `middleware.ts` → `proxy.ts` (Node.js runtime mặc định). Post-hook validation báo khi em write `lib/supabase/middleware.ts` (utility).
+
+**Fix**:
+- Giữ `lib/supabase/middleware.ts` nguyên (là utility module, tên file không ràng buộc Next.js convention).
+- Root file sẽ là `proxy.ts` (không `middleware.ts`) khi tới Task B13.
+
+**Lesson learned**:
+- Mỗi major version Next.js có breaking changes về file conventions — **luôn check docs hiện tại** khi plan viết trước 6+ tháng.
+- Trigger post-hook pattern validator hữu ích — bắt sai sớm trong quá trình viết.
+
+---
+
 ### Task P2-A11 — Seed activities từ MDX
 **Status**: DONE (fixed lần 2)
 **Date**: 2026-04-18
