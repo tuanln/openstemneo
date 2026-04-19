@@ -8,6 +8,7 @@ import {
 import { UnitCard } from "@/components/curriculum/unit-card";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { ExperimentCard } from "@/components/phase2/student/experiment-card";
 
 export default async function StudentHome() {
   const allUnits = await getUnitsWithAvailability();
@@ -26,66 +27,37 @@ export default async function StudentHome() {
         </p>
       </section>
 
-      {/* Featured unit — bài thí nghiệm của lớp em */}
-      {firstUnit && (
+      {/* Featured unit + experiment cards visual */}
+      {firstUnit && firstUnitLessons.length > 0 && (
         <section>
-          <Card className="border-blue-200 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/30">
-            <CardContent className="p-5">
-              <div className="mb-3 flex items-start gap-3">
-                <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-xl bg-white text-3xl shadow-sm dark:bg-slate-800">
-                  {firstUnit.icon}
-                </div>
-                <div className="min-w-0 flex-1">
-                  <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-                    Lớp {firstUnit.gradeLevel} · Đơn vị {firstUnit.id}
-                  </p>
-                  <h2 className="font-bold">{firstUnit.title}</h2>
-                </div>
-                <Button asChild size="sm" variant="secondary" className="shrink-0">
-                  <Link href={`/student/units/${firstUnit.id}`}>
-                    Xem đơn vị
-                    <ArrowRight className="h-4 w-4" />
-                  </Link>
-                </Button>
-              </div>
-              <p className="mb-3 text-sm font-medium text-muted-foreground">
-                🧪 Các bài thí nghiệm ({firstUnitLessons.filter((l) => l.available).length}/{firstUnitLessons.length} sẵn sàng):
+          <div className="mb-4 flex items-center justify-between">
+            <div>
+              <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                Lớp {firstUnit.gradeLevel} · Đơn vị {firstUnit.id}
               </p>
-              <div className="grid gap-2 sm:grid-cols-2">
-                {firstUnitLessons.slice(0, 8).map((lesson) => (
-                  <Link
-                    key={lesson.id}
-                    href={
-                      lesson.available
-                        ? `/student/units/${firstUnit.id}/lessons/${lesson.id}`
-                        : '#'
-                    }
-                    className={`flex items-center gap-2 rounded-lg border bg-white p-3 text-sm transition-colors dark:bg-slate-900 ${
-                      lesson.available
-                        ? 'hover:border-blue-400 hover:bg-blue-50 dark:hover:bg-blue-950/50'
-                        : 'opacity-50 cursor-not-allowed'
-                    }`}
-                  >
-                    <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-blue-100 text-xs font-bold text-blue-700 dark:bg-blue-900 dark:text-blue-300">
-                      {lesson.order}
-                    </span>
-                    <span className="truncate flex-1">{lesson.title}</span>
-                    {lesson.available && (
-                      <ArrowRight className="h-3 w-3 shrink-0 opacity-40" />
-                    )}
-                  </Link>
-                ))}
-              </div>
-              {firstUnitLessons.length > 8 && (
-                <p className="mt-2 text-xs text-muted-foreground">
-                  +{firstUnitLessons.length - 8} bài khác —{' '}
-                  <Link href={`/student/units/${firstUnit.id}`} className="underline">
-                    xem tất cả
-                  </Link>
-                </p>
-              )}
-            </CardContent>
-          </Card>
+              <h2 className="text-xl font-bold">{firstUnit.title}</h2>
+              <p className="mt-1 text-sm text-muted-foreground">
+                🧪 {firstUnitLessons.filter((l) => l.available).length} bài thí nghiệm để em khám phá
+              </p>
+            </div>
+            <Button asChild variant="ghost" size="sm" className="shrink-0">
+              <Link href={`/student/units/${firstUnit.id}`}>
+                Chi tiết đơn vị
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </Button>
+          </div>
+
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {firstUnitLessons.map((lesson) => (
+              <ExperimentCard
+                key={lesson.id}
+                lesson={lesson}
+                unitId={firstUnit.id}
+                coverImage={`/curriculum/grade-${firstUnit.gradeLevel}/${firstUnit.id}-cover.jpg`}
+              />
+            ))}
+          </div>
         </section>
       )}
 
