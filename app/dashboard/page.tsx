@@ -1,11 +1,13 @@
 import Link from 'next/link';
-import { Award, BookOpen, GraduationCap, User } from 'lucide-react';
+import { Award, BookOpen, GraduationCap, User, ArrowRight } from 'lucide-react';
 import { requireRole } from '@/lib/auth/require-role';
 import { createClient } from '@/lib/supabase/server';
 import { Card, CardContent } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
 import { ContinueLearning } from '@/components/phase2/student/continue-learning';
 import { StreakCounter } from '@/components/phase2/student/streak-counter';
 import { CourseProgressBar } from '@/components/phase2/student/progress-bar';
+import { getUnitsWithAvailability, getLessonsForUnit } from '@/lib/curriculum/loader';
 
 export const dynamic = 'force-dynamic';
 
@@ -27,6 +29,14 @@ export default async function DashboardPage() {
     ? (courses ?? []).filter((c) => c.grade_level === profile.grade_level || c.grade_level === profile.grade_level + 1)
     : (courses ?? []);
 
+  // Featured units cho grade của HS — lấy từ curriculum loader
+  const allUnits = await getUnitsWithAvailability();
+  const gradeUnits = profile.grade_level != null
+    ? allUnits.filter((u) => u.gradeLevel === profile.grade_level)
+    : allUnits.slice(0, 3);
+  const firstUnit = gradeUnits[0];
+  const firstUnitLessons = firstUnit ? await getLessonsForUnit(firstUnit.id) : [];
+
   return (
     <div className="mx-auto max-w-5xl space-y-6 p-4 sm:p-6">
       <section>
@@ -42,6 +52,63 @@ export default async function DashboardPage() {
         </div>
         <StreakCounter />
       </div>
+
+      {/* Featured unit — bài học của lớp em */}
+      {firstUnit && firstUnitLessons.length > 0 && (
+        <Card className="border-blue-200 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-950/30 dark:to-purple-950/30">
+          <CardContent className="p-5">
+            <div className="mb-3 flex items-start gap-3">
+              <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-white text-3xl shadow-sm dark:bg-slate-800">
+                {firstUnit.icon}
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                  Lớp {firstUnit.gradeLevel} · Đơn vị {firstUnit.id}
+                </p>
+                <h2 className="font-bold">{firstUnit.title}</h2>
+              </div>
+              <Button asChild size="sm" variant="secondary">
+                <Link href={`/student/units/${firstUnit.id}`}>
+                  Xem đơn vị
+                  <ArrowRight className="h-4 w-4" />
+                </Link>
+              </Button>
+            </div>
+            <p className="mb-3 text-sm font-medium text-muted-foreground">
+              📚 Các bài học ({firstUnitLessons.filter((l) => l.available).length}/{firstUnitLessons.length} sẵn sàng):
+            </p>
+            <div className="grid gap-2 sm:grid-cols-2">
+              {firstUnitLessons.slice(0, 6).map((lesson) => (
+                <Link
+                  key={lesson.id}
+                  href={
+                    lesson.available
+                      ? `/student/units/${firstUnit.id}/lessons/${lesson.id}`
+                      : '#'
+                  }
+                  className={`flex items-center gap-2 rounded-lg border bg-white p-3 text-sm transition-colors dark:bg-slate-900 ${
+                    lesson.available ? 'hover:border-blue-400 hover:bg-blue-50 dark:hover:bg-blue-950/50' : 'opacity-50 cursor-not-allowed'
+                  }`}
+                >
+                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-blue-100 text-xs font-bold text-blue-700 dark:bg-blue-900 dark:text-blue-300">
+                    {lesson.order}
+                  </span>
+                  <span className="truncate">{lesson.title}</span>
+                  {lesson.available && <ArrowRight className="h-3 w-3 shrink-0 opacity-40" />}
+                </Link>
+              ))}
+            </div>
+            {firstUnitLessons.length > 6 && (
+              <p className="mt-2 text-xs text-muted-foreground">
+                +{firstUnitLessons.length - 6} bài khác —{' '}
+                <Link href={`/student/units/${firstUnit.id}`} className="underline">
+                  xem tất cả
+                </Link>
+              </p>
+            )}
+          </CardContent>
+        </Card>
+      )}
 
       <Card>
         <CardContent className="space-y-4 p-6">
