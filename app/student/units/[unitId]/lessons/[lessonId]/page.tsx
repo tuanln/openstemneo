@@ -17,6 +17,8 @@ import { unitAccent } from "@/components/curriculum/unit-colors";
 import { createClient } from "@/lib/supabase/server";
 import { getActivityBySlug, isActivityCompleted } from "@/lib/db/events";
 import { ActivityStatusToggle } from "@/components/phase2/student/activity-status-toggle";
+import { LessonCardFlow } from "@/components/phase2/student/lesson-card-flow";
+import { splitBySections } from "@/lib/curriculum/split-sections";
 
 interface PageProps {
   params: Promise<{ unitId: string; lessonId: string }>;
@@ -66,6 +68,19 @@ export default async function LessonPage({ params }: PageProps) {
   const activity = await getActivityBySlug(lessonId);
   const completed = user && activity ? await isActivityCompleted(activity.id) : false;
 
+  // Load role để decide view: student → card flow, else → full MDX
+  let userRole: string | null = null;
+  if (user) {
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('role')
+      .eq('id', user.id)
+      .maybeSingle();
+    userRole = profile?.role ?? null;
+  }
+  const isStudent = userRole === 'student';
+  const sections = isStudent ? splitBySections(source) : null;
+
   return (
     <article className="space-y-8">
       {/* Breadcrumb */}
@@ -104,40 +119,67 @@ export default async function LessonPage({ params }: PageProps) {
         )}
       </header>
 
-      {/* Body */}
-      <div className="prose prose-slate max-w-none dark:prose-invert prose-headings:font-bold prose-headings:tracking-tight prose-h2:text-2xl prose-h2:mt-10 prose-h3:text-xl prose-p:leading-relaxed prose-li:leading-relaxed prose-a:text-primary prose-strong:text-foreground">
-        <MDXRemote
-          source={source}
-          components={mdxComponents}
-          options={{
-            parseFrontmatter: false,
-            mdxOptions: {
-              remarkPlugins: [remarkGfm],
-            },
-          }}
-        />
-      </div>
+      {/* Body — student thì paginate thành card flow, khác thì full MDX */}
+      {isStudent && sections && sections.length > 1 ? (
+        <LessonCardFlow
+          titles={sections.map((s) => s.title)}
+          onReachEnd={
+            activity ? (
+              <ActivityStatusToggle
+                activityId={activity.id}
+                sourceRef={activity.source_ref ?? undefined}
+                initialCompleted={completed}
+              />
+            ) : null
+          }
+        >
+          {sections.map((s, i) => (
+            <MDXRemote
+              key={i}
+              source={s.source}
+              components={mdxComponents}
+              options={{
+                parseFrontmatter: false,
+                mdxOptions: { remarkPlugins: [remarkGfm] },
+              }}
+            />
+          ))}
+        </LessonCardFlow>
+      ) : (
+        <>
+          <div className="prose prose-slate max-w-none dark:prose-invert prose-headings:font-bold prose-headings:tracking-tight prose-h2:text-2xl prose-h2:mt-10 prose-h3:text-xl prose-p:leading-relaxed prose-li:leading-relaxed prose-a:text-primary prose-strong:text-foreground">
+            <MDXRemote
+              source={source}
+              components={mdxComponents}
+              options={{
+                parseFrontmatter: false,
+                mdxOptions: { remarkPlugins: [remarkGfm] },
+              }}
+            />
+          </div>
 
-      {/* Progress tracking (Phase 2) */}
-      {user && activity ? (
-        <ActivityStatusToggle
-          activityId={activity.id}
-          sourceRef={activity.source_ref ?? undefined}
-          initialCompleted={completed}
-        />
-      ) : !user && activity ? (
-        <div className="mt-8 flex flex-col items-center gap-3 border-t pt-6">
-          <p className="text-sm text-muted-foreground">
-            Đăng nhập để lưu tiến độ + rèn skill qua từng bài.
-          </p>
-          <Button asChild size="sm" variant="outline">
-            <Link href={`/login?next=/student/units/${unitId}/lessons/${lessonId}`}>
-              <LogIn className="h-4 w-4" />
-              Đăng nhập
-            </Link>
-          </Button>
-        </div>
-      ) : null}
+          {/* Progress tracking (Phase 2) — cho teacher/anon */}
+          {user && activity ? (
+            <ActivityStatusToggle
+              activityId={activity.id}
+              sourceRef={activity.source_ref ?? undefined}
+              initialCompleted={completed}
+            />
+          ) : !user && activity ? (
+            <div className="mt-8 flex flex-col items-center gap-3 border-t pt-6">
+              <p className="text-sm text-muted-foreground">
+                Đăng nhập để lưu tiến độ + rèn skill qua từng bài.
+              </p>
+              <Button asChild size="sm" variant="outline">
+                <Link href={`/login?next=/student/units/${unitId}/lessons/${lessonId}`}>
+                  <LogIn className="h-4 w-4" />
+                  Đăng nhập
+                </Link>
+              </Button>
+            </div>
+          ) : null}
+        </>
+      )}
 
       {/* Source attribution */}
       {available && frontmatter.sourceHandoutUrl && (
