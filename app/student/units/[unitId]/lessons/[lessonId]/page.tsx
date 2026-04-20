@@ -68,7 +68,7 @@ export default async function LessonPage({ params }: PageProps) {
   const activity = await getActivityBySlug(lessonId);
   const completed = user && activity ? await isActivityCompleted(activity.id) : false;
 
-  // Load role để decide view: student → card flow, else → full MDX
+  // Load role để decide view
   let userRole: string | null = null;
   if (user) {
     const { data: profile } = await supabase
@@ -78,8 +78,10 @@ export default async function LessonPage({ params }: PageProps) {
       .maybeSingle();
     userRole = profile?.role ?? null;
   }
-  const isStudent = userRole === 'student';
-  const sections = isStudent ? splitBySections(source) : null;
+  // MVP: Mọi user (kể cả anonymous, admin, teacher) đều thấy card flow visual mới.
+  // Teacher/admin có thể toggle "Xem full text" sau. Test với em nhỏ không cần login.
+  const sections = splitBySections(source);
+  const useCardFlow = sections.length > 1;
 
   return (
     <article className="space-y-8">
@@ -93,8 +95,8 @@ export default async function LessonPage({ params }: PageProps) {
         </Button>
       </div>
 
-      {/* Header — ẩn khi student render card flow (đã có overlay trong card 1) */}
-      {!(isStudent && sections && sections.length > 1) && (
+      {/* Header — ẩn khi render card flow (đã có overlay trong card 1) */}
+      {!useCardFlow && (
         <header className="space-y-3">
           <div className="flex flex-wrap items-center gap-2">
             <span className={cn("text-xs font-semibold uppercase tracking-wider", unitAccent[unit.color])}>
@@ -121,8 +123,8 @@ export default async function LessonPage({ params }: PageProps) {
         </header>
       )}
 
-      {/* Body — student thì paginate thành card flow, khác thì full MDX */}
-      {isStudent && sections && sections.length > 1 ? (
+      {/* Body — card flow visual cho tất cả user (fallback full MDX khi lesson không có H2 sections) */}
+      {useCardFlow ? (
         <LessonCardFlow
           steps={sections.map((s) => ({
             title: s.title,
