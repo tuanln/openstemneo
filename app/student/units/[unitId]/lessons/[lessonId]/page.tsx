@@ -93,36 +93,46 @@ export default async function LessonPage({ params }: PageProps) {
         </Button>
       </div>
 
-      {/* Header */}
-      <header className="space-y-3">
-        <div className="flex flex-wrap items-center gap-2">
-          <span className={cn("text-xs font-semibold uppercase tracking-wider", unitAccent[unit.color])}>
-            Bài {frontmatter.order}
-          </span>
-          {frontmatter.duration && (
-            <Badge variant="secondary" className="gap-1">
-              <Clock className="h-3 w-3" />
-              {frontmatter.duration}
-            </Badge>
+      {/* Header — ẩn khi student render card flow (đã có overlay trong card 1) */}
+      {!(isStudent && sections && sections.length > 1) && (
+        <header className="space-y-3">
+          <div className="flex flex-wrap items-center gap-2">
+            <span className={cn("text-xs font-semibold uppercase tracking-wider", unitAccent[unit.color])}>
+              Bài {frontmatter.order}
+            </span>
+            {frontmatter.duration && (
+              <Badge variant="secondary" className="gap-1">
+                <Clock className="h-3 w-3" />
+                {frontmatter.duration}
+              </Badge>
+            )}
+            {frontmatter.standards?.map((s) => (
+              <Badge key={s} variant="outline">
+                {s}
+              </Badge>
+            ))}
+          </div>
+          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
+            {frontmatter.title}
+          </h1>
+          {frontmatter.summary && (
+            <p className="text-lg text-muted-foreground">{frontmatter.summary}</p>
           )}
-          {frontmatter.standards?.map((s) => (
-            <Badge key={s} variant="outline">
-              {s}
-            </Badge>
-          ))}
-        </div>
-        <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
-          {frontmatter.title}
-        </h1>
-        {frontmatter.summary && (
-          <p className="text-lg text-muted-foreground">{frontmatter.summary}</p>
-        )}
-      </header>
+        </header>
+      )}
 
       {/* Body — student thì paginate thành card flow, khác thì full MDX */}
       {isStudent && sections && sections.length > 1 ? (
         <LessonCardFlow
-          titles={sections.map((s) => s.title)}
+          steps={sections.map((s) => ({
+            title: s.title,
+            emoji: s.emoji,
+            heroImage: s.heroImage,
+            heroAlt: s.heroAlt,
+          }))}
+          lessonTitle={frontmatter.title}
+          lessonSummary={frontmatter.summary}
+          fallbackHero={`/curriculum/grade-${unit.gradeLevel}/${unit.id}-cover.jpg`}
           onReachEnd={
             activity ? (
               <ActivityStatusToggle
